@@ -12,6 +12,7 @@ object SmartTemperatureConverter{
         
 
     }
+    
     def main(args:Array[String])={
        println(converterTemp(0,"C"))
        println(converterTemp(212,"F"))
