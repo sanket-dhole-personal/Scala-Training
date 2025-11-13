@@ -1,0 +1,110 @@
+2] Create kafka topics
+1) Create Topic orders with 3 position and 2 replication Factor:-
+
+racit@PTPLMRT06 ~ % kafka-topics.sh --bootstrap-server localhost:9092 --topic firsttopic --replication-factor 2 --partitions 3 --create
+Created topic firsttopic.
+racit@PTPLMRT06 ~ % kafka-topics.sh --bootstrap-server localhost:9092 --topic firsttopic --describe                                    
+Topic: firsttopic	TopicId: pmPdAqrnQASfaOHJWXpFew	PartitionCount: 3	ReplicationFactor: 2	Configs: 
+	Topic: firsttopic	Partition: 0	Leader: 2	Replicas: 2,0	Isr: 2,0
+	Topic: firsttopic	Partition: 1	Leader: 1	Replicas: 1,2	Isr: 1,2
+	Topic: firsttopic	Partition: 2	Leader: 0	Replicas: 0,1	Isr: 0,1
+
+
+2) List All topics to verify:-
+racit@PTPLMRT06 ~ % kafka-topics.sh --list  --bootstrap-server localhost:9092                                                          
+__consumer_offsets
+firsttopic
+
+3) Describe the topic to see partition and Leader:-
+racit@PTPLMRT06 ~ % kafka-topics.sh --describe --topic firsttopic --bootstrap-server localhost:9092
+
+Topic: firsttopic	TopicId: pmPdAqrnQASfaOHJWXpFew	PartitionCount: 3	ReplicationFactor: 2	Configs: 
+	Topic: firsttopic	Partition: 0	Leader: 2	Replicas: 2,0	Isr: 2,0
+	Topic: firsttopic	Partition: 1	Leader: 1	Replicas: 1,2	Isr: 1,2
+	Topic: firsttopic	Partition: 2	Leader: 0	Replicas: 0,1	Isr: 0,1
+
+
+3] Produce Message
+1) Start kafka producer to send messages:-
+racit@PTPLMRT06 ~ % kafka-console-producer.sh --bootstrap-server localhost:9092 -topic firsttopic
+
+2) Send simple messages:-
+racit@PTPLMRT06 ~ % kafka-console-producer.sh --bootstrap-server localhost:9092 -topic firsttopic
+>OrderId:1001,Item:laptop,Quantity:2
+>OrderId:1002,Item:Mobile,Quantity:1            
+>OrderId:1003,Item:Headphones,Quantity:5
+
+4] Consume messages:-
+1) Start kafka consumer:-
+racit@PTPLMRT06 ~ % kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic firsttopic --from-beginning
+
+2) Observe output:-
+OrderId:1001,Item:laptop,Quantity:2
+OrderId:1002,Item:Mobile,Quantity:1
+OrderId:1003,Item:Headphones,Quantity:5
+
+5]Use Consumer Groups:-
+1)Start multiple consumers in the same group to simulate load balancing:
+racit@192 kafka_2.12-3.5.1 % kafka-console-consumer.sh --topic firsttopic --group retailGroup --bootstrap-server localhost:9092
+racit@192 kafka_2.12-3.5.1 % kafka-console-consumer.sh --topic firsttopic --group retailGroup --bootstrap-server localhost:9092
+
+I use this command in 2 saperate terminal when i produce message then only one terminal shows all message
+
+2) Produce more messages and observe partition assignment among consumers.
+3) List consumer groups:
+
+racit@192 kafka_2.12-3.5.1 % bin/kafka-consumer-groups.sh --bootstrap-server localhost:9092 --list
+retailGroup
+
+
+4)Describe consumer group:-
+racit@192 kafka_2.12-3.5.1 % bin/kafka-consumer-groups.sh --bootstrap-server localhost:9092 --describe --group retailGroup     
+
+
+GROUP           TOPIC           PARTITION  CURRENT-OFFSET  LOG-END-OFFSET  LAG             CONSUMER-ID                                           HOST            CLIENT-ID
+retailGroup     firsttopic      0          27              27              0               console-consumer-34e3ce89-f373-4cbc-86d3-6c9e2f7fb7e3 /127.0.0.1      console-consumer
+retailGroup     firsttopic      1          0               0               0               console-consumer-34e3ce89-f373-4cbc-86d3-6c9e2f7fb7e3 /127.0.0.1      console-consumer
+retailGroup     firsttopic      2          19              19              0               console-consumer-34e3ce89-f373-4cbc-86d3-6c9e2f7fb7e3 /127.0.0.1      console-consumer
+
+6] Explore Message Keys:-
+1). Produce messages with keys to control partition assignment:
+racit@192 kafka_2.12-3.5.1 % bin/kafka-console-producer.sh \
+  --topic firsttopic \
+  --property parse.key=true \
+  --property key.separator=: \
+  --bootstrap-server localhost:9092
+
+2). Example messages with keys:
+>1001:Laptop
+>1002:Mobile
+>1003:Mouse
+
+3) Start a consumer with partition info as in Step 4 and observe that messages with
+the same key go to the same partition.
+bin/kafka-console-consumer.sh \
+  --topic firsttopic \
+  --bootstrap-server localhost:9092 \
+  --from-beginning \
+  --property print.key=true \
+  --property print.partition=true
+  Partition:2	null	demo5
+Partition:1	1003	Mouse
+Partition:2	null	APTOP
+Partition:2	null	MOUSE
+Partition:2	null	LAPTO
+Partition:2	null	Laptop
+Partition:2	null	Mouse
+Partition:2	null	Mobile
+
+7] Explore Replication Factor
+
+1) Describe topic orders to see leader and replicas::-
+racit@192 kafka_2.12-3.5.1 % bin/kafka-topics.sh --describe --topic firsttopic --bootstrap-server localhost:9092
+Topic: firsttopic	TopicId: pmPdAqrnQASfaOHJWXpFew	PartitionCount: 3	ReplicationFactor: 2	Configs: 
+	Topic: firsttopic	Partition: 0	Leader: 2	Replicas: 2,0	Isr: 2,0
+	Topic: firsttopic	Partition: 1	Leader: 1	Replicas: 1,2	Isr: 1,2
+	Topic: firsttopic	Partition: 2	Leader: 0	Replicas: 0,1	Isr: 0,1
+
+8] Cleanup
+1) Delete the topic:
+bin/kafka-topics.sh --delete --topic firsttopic --bootstrap-server localhost:9092
