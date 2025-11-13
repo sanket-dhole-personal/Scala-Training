@@ -4,9 +4,9 @@ import scala.util.{Using, Try, Success, Failure}
 
 // -------------------- Database Connection --------------------
 object Database:
-  private val url = "jdbc:mysql://azuremysql8823.mysql.database.azure.com:3306/sanket"
+  private val url = "jdbc:mysql://************:3306/sanket"
   private val username = "mysqladmin"
-  private val password = "Password@12345"
+  private val password = "**********"
 
   Class.forName("com.mysql.cj.jdbc.Driver")
 

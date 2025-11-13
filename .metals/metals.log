@@ -8209,3 +8209,9 @@ Caused by: java.lang.StringIndexOutOfBoundsException: String index out of range:
 2025.11.13 21:56:32 INFO  time: compiled ScalaDemo_c304e17189 in 0.38s
 2025.11.13 21:58:45 INFO  compiling scalademo_c304e17189 (14 scala sources)
 2025.11.13 21:58:45 INFO  time: compiled ScalaDemo_c304e17189 in 0.22s
+2025.11.13 22:15:35 INFO  compiling scalademo_c304e17189 (14 scala sources)
+2025.11.13 22:15:37 INFO  time: compiled ScalaDemo_c304e17189 in 1.11s
+2025.11.13 22:15:41 INFO  compiling scalademo_c304e17189 (14 scala sources)
+2025.11.13 22:15:41 INFO  time: compiled ScalaDemo_c304e17189 in 0.24s
+2025.11.13 22:15:47 INFO  compiling scalademo_c304e17189 (14 scala sources)
+2025.11.13 22:15:47 INFO  time: compiled ScalaDemo_c304e17189 in 0.19s
