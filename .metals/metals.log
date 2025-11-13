@@ -6772,3 +6772,1440 @@ WARNING: Unmatched cancel notification for request id 35188
 2025.11.11 00:03:50 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day5/CleanPipeline.scala
 2025.11.11 00:04:05 INFO  compiling scalademo_c304e17189 (1 scala source)
 2025.11.11 00:04:05 INFO  time: compiled ScalaDemo_c304e17189 in 0.18s
+2025.11.11 10:38:57 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day5/ParallelVsSequential.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.11 10:38:57 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Day5/ParallelVsSequential.scala
+2025.11.11 10:38:57 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day5/ParallelVsSequential.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.11 10:38:57 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day5/ParallelVsSequential.scala
+2025.11.11 10:38:57 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day5/ParallelVsSequential.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.11 10:38:58 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day5/ParallelVsSequential.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.11 10:38:58 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day5/ParallelVsSequential.scala
+2025.11.11 10:38:58 INFO  compiling scalademo_c304e17189 (1 scala source)
+2025.11.11 10:38:58 INFO  time: compiled ScalaDemo_c304e17189 in 0.48s
+2025.11.11 10:38:59 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day5/ParallelVsSequential.scala
+2025.11.11 10:38:59 INFO  time: indexed workspace in 1s
+2025.11.11 10:38:59 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day5/ParallelVsSequential.scala
+2025.11.11 10:39:27 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day5/ParallelVsSequential.scala
+2025.11.11 10:39:55 INFO  compiling scalademo_c304e17189 (1 scala source)
+2025.11.11 10:39:55 INFO  time: compiled ScalaDemo_c304e17189 in 0.87s
+2025.11.11 10:46:27 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day5/FutureRecoverRcoverwith.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.11 10:46:27 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Day5/FutureRecoverRcoverwith.scala
+2025.11.11 10:46:27 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day5/FutureRecoverRcoverwith.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.11 10:46:27 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day5/FutureRecoverRcoverwith.scala
+2025.11.11 10:46:27 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day5/FutureRecoverRcoverwith.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.11 10:46:27 INFO  compiling scalademo_c304e17189 (1 scala source)
+2025.11.11 10:46:27 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day5/FutureRecoverRcoverwith.scala
+2025.11.11 10:46:27 INFO  time: compiled ScalaDemo_c304e17189 in 0.43s
+2025.11.11 10:46:28 INFO  time: indexed workspace in 0.97s
+2025.11.11 10:46:28 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day5/FutureRecoverRcoverwith.scala
+2025.11.11 10:46:30 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day5/FutureRecoverRcoverwith.scala
+2025.11.11 10:47:04 INFO  compiling scalademo_c304e17189 (1 scala source)
+2025.11.11 10:47:04 INFO  time: compiled ScalaDemo_c304e17189 in 0.89s
+2025.11.11 10:48:04 INFO  compiling scalademo_c304e17189 (1 scala source)
+2025.11.11 10:48:04 INFO  time: compiled ScalaDemo_c304e17189 in 0.22s
+2025.11.11 10:48:28 INFO  compiling scalademo_c304e17189 (1 scala source)
+2025.11.11 10:48:28 INFO  time: compiled ScalaDemo_c304e17189 in 0.19s
+2025.11.11 10:51:11 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day5/FutureRecoverRcoverwith.scala
+2025.11.11 10:51:52 INFO  compiling scalademo_c304e17189 (1 scala source)
+2025.11.11 10:51:52 INFO  time: compiled ScalaDemo_c304e17189 in 0.2s
+2025.11.11 10:54:32 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day5/ChainingDepartments.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.11 10:54:32 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day5/ChainingDepartments.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.11 10:54:32 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Day5/ChainingDepartments.scala
+2025.11.11 10:54:32 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day5/ChainingDepartments.scala
+2025.11.11 10:54:32 INFO  compiling scalademo_c304e17189 (1 scala source)
+2025.11.11 10:54:32 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day5/ChainingDepartments.scala
+2025.11.11 10:54:32 INFO  time: compiled ScalaDemo_c304e17189 in 0.27s
+2025.11.11 10:54:33 INFO  time: indexed workspace in 0.94s
+2025.11.11 10:54:33 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day5/ChainingDepartments.scala
+2025.11.11 10:54:38 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day5/ChainingDepartments.scala
+2025.11.11 10:56:35 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day5/ChainingDepartments.scala
+Nov 11, 2025 10:56:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36844
+2025.11.11 10:56:56 INFO  compiling scalademo_c304e17189 (1 scala source)
+2025.11.11 10:56:56 INFO  time: compiled ScalaDemo_c304e17189 in 0.24s
+2025.11.11 10:58:27 INFO  Created report: Optional[file:///Users/racit/Documents/ScalaDemo/Day5/ChainingDepartments.scala]
+2025.11.11 10:58:27 INFO  empty definition using pc, found symbol in pc: scala/Predef.String# (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/metals-full/2025-11-11/r_empty-definition_(ScalaDemo_5fc304e17189)_10-58-27-969.md")
+2025.11.11 10:58:28 INFO  empty definition using pc, found symbol in pc: scala/Predef.String# (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/metals-full/2025-11-11/r_empty-definition_(ScalaDemo_5fc304e17189)_10-58-27-969.md")
+2025.11.11 10:58:58 INFO  compiling scalademo_c304e17189 (1 scala source)
+2025.11.11 10:58:58 INFO  time: compiled ScalaDemo_c304e17189 in 0.2s
+Nov 11, 2025 3:42:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37038
+2025.11.12 07:56:30 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/traitsDemo.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.12 07:56:30 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/traitsDemo.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.12 07:56:30 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/traitsDemo.scala
+2025.11.12 07:56:31 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Day6/traitsDemo.scala
+2025.11.12 07:56:31 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/traitsDemo.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.12 07:56:31 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/traitsDemo.scala
+2025.11.12 07:56:31 INFO  compiling scalademo_c304e17189 (1 scala source)
+2025.11.12 07:56:31 INFO  time: compiled ScalaDemo_c304e17189 in 0.66s
+2025.11.12 07:56:32 INFO  time: indexed workspace in 0.92s
+2025.11.12 07:56:33 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/traitsDemo.scala
+2025.11.12 07:56:36 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/traitsDemo.scala
+2025.11.12 07:56:37 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/traitsDemo.scala
+2025.11.12 07:56:38 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/traitsDemo.scala
+2025.11.12 07:56:39 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/traitsDemo.scala
+2025.11.12 07:56:40 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/traitsDemo.scala
+2025.11.12 07:56:46 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/traitsDemo.scala
+Nov 12, 2025 7:57:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37733
+Nov 12, 2025 7:58:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37776
+2025.11.12 08:01:35 INFO  compiling scalademo_c304e17189 (1 scala source)
+2025.11.12 08:01:35 INFO  time: compiled ScalaDemo_c304e17189 in 0.69s
+2025.11.12 08:01:40 INFO  compiling scalademo_c304e17189 (1 scala source)
+2025.11.12 08:01:40 INFO  time: compiled ScalaDemo_c304e17189 in 0.17s
+Nov 12, 2025 8:03:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38693
+2025.11.12 08:03:48 INFO  compiling scalademo_c304e17189 (2 scala sources)
+2025.11.12 08:03:48 INFO  time: compiled ScalaDemo_c304e17189 in 0.14s
+2025.11.12 08:04:08 INFO  compiling scalademo_c304e17189 (2 scala sources)
+2025.11.12 08:04:08 INFO  time: compiled ScalaDemo_c304e17189 in 0.18s
+2025.11.12 08:04:46 INFO  compiling scalademo_c304e17189 (2 scala sources)
+2025.11.12 08:04:46 INFO  time: compiled ScalaDemo_c304e17189 in 0.11s
+Nov 12, 2025 8:06:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39010
+Nov 12, 2025 8:06:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39114
+2025.11.12 08:06:35 INFO  compiling scalademo_c304e17189 (2 scala sources)
+2025.11.12 08:06:35 INFO  time: compiled ScalaDemo_c304e17189 in 0.12s
+2025.11.12 08:06:59 INFO  compiling scalademo_c304e17189 (2 scala sources)
+2025.11.12 08:06:59 INFO  time: compiled ScalaDemo_c304e17189 in 0.11s
+Nov 12, 2025 8:07:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39242
+2025.11.12 08:07:41 INFO  compiling scalademo_c304e17189 (2 scala sources)
+2025.11.12 08:07:41 INFO  time: compiled ScalaDemo_c304e17189 in 97ms
+2025.11.12 08:08:15 INFO  compiling scalademo_c304e17189 (2 scala sources)
+2025.11.12 08:08:15 INFO  time: compiled ScalaDemo_c304e17189 in 96ms
+2025.11.12 08:09:49 INFO  compiling scalademo_c304e17189 (2 scala sources)
+2025.11.12 08:09:49 INFO  time: compiled ScalaDemo_c304e17189 in 0.11s
+2025.11.12 08:12:45 INFO  compiling scalademo_c304e17189 (2 scala sources)
+2025.11.12 08:12:45 INFO  time: compiled ScalaDemo_c304e17189 in 0.11s
+2025.11.12 08:13:10 INFO  compiling scalademo_c304e17189 (2 scala sources)
+2025.11.12 08:13:10 INFO  time: compiled ScalaDemo_c304e17189 in 97ms
+2025.11.12 08:23:37 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/TraitDemo1.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.12 08:23:37 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Day6/TraitDemo1.scala
+2025.11.12 08:23:37 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/TraitDemo1.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.12 08:23:37 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/TraitDemo1.scala
+2025.11.12 08:23:37 INFO  compiling scalademo_c304e17189 (3 scala sources)
+2025.11.12 08:23:37 INFO  time: compiled ScalaDemo_c304e17189 in 0.12s
+2025.11.12 08:23:37 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/TraitDemo1.scala
+2025.11.12 08:23:37 INFO  compiling scalademo_c304e17189 (3 scala sources)
+2025.11.12 08:23:37 INFO  time: compiled ScalaDemo_c304e17189 in 92ms
+2025.11.12 08:23:38 INFO  time: indexed workspace in 0.82s
+2025.11.12 08:23:37 INFO  compiling scalademo_c304e17189 (3 scala sources)
+2025.11.12 08:23:38 INFO  time: compiled ScalaDemo_c304e17189 in 0.13s
+2025.11.12 08:23:38 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/TraitDemo1.scala
+2025.11.12 08:23:38 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/TraitDemo1.scala
+2025.11.12 08:23:39 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/TraitDemo1.scala
+2025.11.12 08:23:40 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/TraitDemo1.scala
+2025.11.12 08:23:40 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/TraitDemo1.scala
+2025.11.12 08:23:41 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/TraitDemo1.scala
+Nov 12, 2025 8:26:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40232
+Nov 12, 2025 8:27:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40588
+Nov 12, 2025 8:28:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40673
+Nov 12, 2025 8:28:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40737
+Nov 12, 2025 8:29:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40938
+2025.11.12 08:31:42 INFO  compiling scalademo_c304e17189 (3 scala sources)
+2025.11.12 08:31:42 INFO  time: compiled ScalaDemo_c304e17189 in 0.11s
+2025.11.12 08:35:38 INFO  compiling scalademo_c304e17189 (3 scala sources)
+2025.11.12 08:35:38 INFO  time: compiled ScalaDemo_c304e17189 in 0.11s
+2025.11.12 10:09:17 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/MysqlApp.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.12 10:09:17 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Day6/MysqlApp.scala
+2025.11.12 10:09:17 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/MysqlApp.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.12 10:09:17 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/MysqlApp.scala
+2025.11.12 10:09:17 INFO  compiling scalademo_c304e17189 (4 scala sources)
+2025.11.12 10:09:17 INFO  time: compiled ScalaDemo_c304e17189 in 0.13s
+2025.11.12 10:09:17 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/MysqlApp.scala
+2025.11.12 10:09:17 INFO  compiling scalademo_c304e17189 (4 scala sources)
+2025.11.12 10:09:17 INFO  time: compiled ScalaDemo_c304e17189 in 84ms
+2025.11.12 10:09:18 INFO  time: indexed workspace in 0.78s
+2025.11.12 10:09:17 INFO  compiling scalademo_c304e17189 (4 scala sources)
+2025.11.12 10:09:17 INFO  time: compiled ScalaDemo_c304e17189 in 73ms
+2025.11.12 10:09:18 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/MysqlApp.scala
+Nov 12, 2025 10:12:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41544
+2025.11.12 10:13:48 INFO  Canceling debug proxy for [implicitePlusOperator]
+2025.11.12 10:13:49 INFO  compiling scalademo_c304e17189 (4 scala sources)
+2025.11.12 10:13:49 INFO  time: compiled ScalaDemo_c304e17189 in 0.13s
+2025.11.12 10:13:49 INFO  compiling scalademo_c304e17189 (4 scala sources)
+2025.11.12 10:13:49 INFO  time: compiled ScalaDemo_c304e17189 in 87ms
+2025.11.12 10:13:49 INFO  compiling scalademo_c304e17189 (4 scala sources)
+2025.11.12 10:13:49 INFO  time: compiled ScalaDemo_c304e17189 in 88ms
+2025.11.12 10:13:49 INFO  BSP server: Fatal error has occured within bloop bsp server, method: debugSessionStart, with params: DebugSessionParams [
+2025.11.12 10:13:49 INFO  BSP server:   targets = ArrayList (
+2025.11.12 10:13:49 INFO  BSP server:     BuildTargetIdentifier [
+2025.11.12 10:13:49 INFO  BSP server:       uri = "file:/Users/racit/Documents/ScalaDemo/.scala-build/?id=ScalaDemo_c304e17189"
+2025.11.12 10:13:49 INFO  BSP server:     ]
+2025.11.12 10:13:49 INFO  BSP server:   )
+2025.11.12 10:13:49 INFO  BSP server:   dataKind = "scala-main-class"
+2025.11.12 10:13:49 INFO  BSP server:   data = {"class":"implicitePlusOperator","arguments":[],"jvmOptions":[],"environmentVariables":[]}
+2025.11.12 10:13:49 INFO  BSP server: ]. Shutting down the server:
+2025.11.12 10:13:49 INFO  BSP server:  org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Compilation not successful
+2025.11.12 10:13:49 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+2025.11.12 10:13:49 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+2025.11.12 10:13:49 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+2025.11.12 10:13:49 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+2025.11.12 10:13:49 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+2025.11.12 10:13:49 INFO  BSP server: 	at java.base@17.0.6/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+2025.11.12 10:13:49 INFO  BSP server: 	at java.base@17.0.6/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+2025.11.12 10:13:49 INFO  BSP server: 	at java.base@17.0.6/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+2025.11.12 10:13:49 INFO  BSP server: 	at java.base@17.0.6/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+2025.11.12 10:13:49 INFO  BSP server: 	at java.base@17.0.6/java.lang.Thread.run(Thread.java:833)
+2025.11.12 10:13:49 INFO  BSP server: 	at com.oracle.svm.core.thread.PlatformThreads.threadStartRoutine(PlatformThreads.java:775)
+2025.11.12 10:13:49 INFO  BSP server: 	at com.oracle.svm.core.posix.thread.PosixPlatformThreads.pthreadStartRoutine(PosixPlatformThreads.java:203)
+2025.11.12 10:13:49 INFO  BSP server: 
+2025.11.12 10:13:49 INFO  Running BSP server List(/Users/racit/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/racit/Documents/ScalaDemo/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/racit/Documents/ScalaDemo/.scala-build/ide-launcher-options.json, --envs-file, /Users/racit/Documents/ScalaDemo/.scala-build/ide-envs.json, /Users/racit/Documents/ScalaDemo)
+2025.11.12 10:13:49 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/racit/Documents/ScalaDemo/.metals/bsp.trace.json or /Users/racit/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.11.12 10:13:50 INFO  Connected to Build server: scala-cli v1.9.1
+2025.11.12 10:13:50 INFO  compiling scalademo_c304e17189 (4 scala sources)
+2025.11.12 10:13:50 INFO  time: compiled ScalaDemo_c304e17189 in 0.17s
+2025.11.12 10:13:50 INFO  compiling scalademo_c304e17189 (4 scala sources)
+2025.11.12 10:13:50 INFO  time: compiled ScalaDemo_c304e17189 in 84ms
+2025.11.12 10:13:51 INFO  time: indexed workspace in 0.79s
+2025.11.12 10:13:51 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Day5/implicitePlusOperator.scala
+2025.11.12 10:13:50 INFO  compiling scalademo_c304e17189 (4 scala sources)
+2025.11.12 10:13:50 INFO  time: compiled ScalaDemo_c304e17189 in 94ms
+2025.11.12 10:14:49 INFO  Failed to run request with params DebugSessionAddress
+2025.11.12 10:22:48 INFO  compiling scalademo_c304e17189 (4 scala sources)
+2025.11.12 10:22:48 INFO  time: compiled ScalaDemo_c304e17189 in 0.14s
+2025.11.12 18:14:20 INFO  compiling scalademo_c304e17189 (4 scala sources)
+2025.11.12 18:14:20 INFO  time: compiled ScalaDemo_c304e17189 in 0.67s
+2025.11.12 21:58:44 INFO  compiling scalademo_c304e17189 (4 scala sources)
+2025.11.12 21:58:44 INFO  time: compiled ScalaDemo_c304e17189 in 0.64s
+2025.11.12 21:58:44 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$: Cannot run class, since the workspace has errors.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$.<clinit>(DiscoveryFailures.scala:57)
+	at scala.meta.internal.metals.debug.DebugDiscovery.validate(DebugDiscovery.scala:86)
+	at scala.meta.internal.metals.debug.DebugDiscovery.debugDiscovery(DebugDiscovery.scala:164)
+	at scala.meta.internal.metals.debug.DebugDiscovery.runCommandDiscovery(DebugDiscovery.scala:66)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$discoverMainClasses$1(MetalsLspService.scala:1586)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$afterCompilationFinished$6(MetalsLspService.scala:1541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:503)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2025.11.12 21:58:44 INFO  compiling scalademo_c304e17189 (4 scala sources)
+2025.11.12 21:58:45 INFO  time: compiled ScalaDemo_c304e17189 in 0.36s
+2025.11.12 21:58:45 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$: Cannot run class, since the workspace has errors.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$WorkspaceErrorsException$.<clinit>(DiscoveryFailures.scala:57)
+	at scala.meta.internal.metals.debug.DebugDiscovery.validate(DebugDiscovery.scala:86)
+	at scala.meta.internal.metals.debug.DebugDiscovery.debugDiscovery(DebugDiscovery.scala:164)
+	at scala.meta.internal.metals.debug.DebugDiscovery.runCommandDiscovery(DebugDiscovery.scala:66)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$discoverMainClasses$1(MetalsLspService.scala:1586)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$afterCompilationFinished$6(MetalsLspService.scala:1541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:503)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2025.11.13 12:26:41 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question1/Spacecraft.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 12:26:41 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question1/Spacecraft.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 12:26:41 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Day6/Question1/Spacecraft.scala
+2025.11.13 12:26:41 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question1/Spacecraft.scala
+2025.11.13 12:26:41 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question1/Spacecraft.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 12:26:41 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question1/Spacecraft.scala
+2025.11.13 12:26:42 INFO  compiling scalademo_c304e17189 (5 scala sources)
+2025.11.13 12:26:42 INFO  time: compiled ScalaDemo_c304e17189 in 0.73s
+2025.11.13 12:26:43 INFO  time: Imported build in 1.16s
+2025.11.13 12:26:43 INFO  compiling scalademo_c304e17189 (5 scala sources)
+2025.11.13 12:26:44 INFO  time: indexed workspace in 0.93s
+2025.11.13 12:26:43 INFO  time: compiled ScalaDemo_c304e17189 in 0.93s
+2025.11.13 12:26:44 INFO  compiling scalademo_c304e17189 (5 scala sources)
+2025.11.13 12:26:44 INFO  time: compiled ScalaDemo_c304e17189 in 0.38s
+2025.11.13 12:26:45 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question1/Spacecraft.scala
+2025.11.13 12:27:21 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question1/Spacecraft.scala
+2025.11.13 12:27:22 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question1/Spacecraft.scala
+2025.11.13 12:27:23 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question1/Spacecraft.scala
+2025.11.13 12:27:24 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question1/Spacecraft.scala
+2025.11.13 12:27:26 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question1/Spacecraft.scala
+Nov 13, 2025 12:32:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42387
+2025.11.13 12:40:37 INFO  compiling scalademo_c304e17189 (5 scala sources)
+2025.11.13 12:40:37 INFO  time: compiled ScalaDemo_c304e17189 in 0.77s
+2025.11.13 12:40:40 INFO  Shutting down server
+2025.11.13 12:40:40 INFO  shutting down Metals
+2025.11.13 12:40:40 INFO  Shut down connection with build server.
+2025.11.13 12:40:40 INFO  Exiting server
+2025.11.13 12:40:59 INFO  Started: Metals version 1.6.3 in folders '/Users/racit/Documents/ScalaDemo' for client Visual Studio Code 1.105.1.
+2025.11.13 12:40:59 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.13 12:40:59 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question1/Spacecraft.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.13 12:40:59 INFO  Attempting to connect to the build server...
+2025.11.13 12:40:59 INFO  Running BSP server List(/Users/racit/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/racit/Documents/ScalaDemo/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/racit/Documents/ScalaDemo/.scala-build/ide-launcher-options.json, --envs-file, /Users/racit/Documents/ScalaDemo/.scala-build/ide-envs.json, /Users/racit/Documents/ScalaDemo)
+2025.11.13 12:41:00 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/racit/Documents/ScalaDemo/.metals/bsp.trace.json or /Users/racit/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.11.13 12:41:01 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question1/Spacecraft.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Nov 13, 2025 12:41:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2025.11.13 12:41:01 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question1/Spacecraft.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.13 12:41:01 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question1/Spacecraft.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.13 12:41:01 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question1/Spacecraft.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.13 12:41:01 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question1/Spacecraft.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Nov 13, 2025 12:41:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+Nov 13, 2025 12:41:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+2025.11.13 12:41:02 INFO  time: Connected to build server in 2.86s
+2025.11.13 12:41:02 INFO  Connected to Build server: scala-cli v1.9.1
+2025.11.13 12:41:03 INFO  compiling scalademo_c304e17189 (5 scala sources)
+2025.11.13 12:41:03 INFO  time: compiled ScalaDemo_c304e17189 in 0.26s
+2025.11.13 12:41:03 INFO  compiling scalademo_c304e17189 (5 scala sources)
+2025.11.13 12:41:03 INFO  time: compiled ScalaDemo_c304e17189 in 0.19s
+2025.11.13 12:41:04 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.13 12:41:04 INFO  time: indexed workspace in 2.02s
+2025.11.13 12:41:05 INFO  compiling scalademo_c304e17189 (5 scala sources)
+2025.11.13 12:41:05 INFO  time: compiled ScalaDemo_c304e17189 in 0.17s
+Nov 13, 2025 12:42:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 13, 2025 12:42:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.11.13 12:46:47 INFO  compiling scalademo_c304e17189 (5 scala sources)
+2025.11.13 12:46:47 INFO  time: compiled ScalaDemo_c304e17189 in 0.19s
+2025.11.13 12:47:23 INFO  compiling scalademo_c304e17189 (5 scala sources)
+2025.11.13 12:47:23 INFO  time: compiled ScalaDemo_c304e17189 in 0.18s
+2025.11.13 12:47:26 INFO  compiling scalademo_c304e17189 (5 scala sources)
+2025.11.13 12:47:26 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 12:47:32 INFO  compiling scalademo_c304e17189 (5 scala sources)
+2025.11.13 12:47:32 INFO  time: compiled ScalaDemo_c304e17189 in 0.13s
+2025.11.13 12:48:35 INFO  compiling scalademo_c304e17189 (5 scala sources)
+2025.11.13 12:48:35 INFO  time: compiled ScalaDemo_c304e17189 in 0.16s
+2025.11.13 12:48:44 INFO  compiling scalademo_c304e17189 (5 scala sources)
+2025.11.13 12:48:44 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 12:50:01 INFO  compiling scalademo_c304e17189 (5 scala sources)
+2025.11.13 12:50:01 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 12:50:05 INFO  compiling scalademo_c304e17189 (5 scala sources)
+2025.11.13 12:50:05 INFO  time: compiled ScalaDemo_c304e17189 in 0.12s
+2025.11.13 12:55:02 INFO  compiling scalademo_c304e17189 (5 scala sources)
+2025.11.13 12:55:02 INFO  time: compiled ScalaDemo_c304e17189 in 0.17s
+2025.11.13 12:56:59 INFO  compiling scalademo_c304e17189 (5 scala sources)
+2025.11.13 12:56:59 INFO  time: compiled ScalaDemo_c304e17189 in 0.14s
+2025.11.13 12:58:03 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Spacecraft.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 12:58:03 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Day6/Spacecraft.scala
+2025.11.13 12:58:03 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Spacecraft.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 12:58:03 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Spacecraft.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 12:58:03 INFO  Cancelling compilation on scala-cli server
+2025.11.13 12:58:03 INFO  Deduplicating compilation of ScalaDemo_c304e17189 from bsp client 'scala-cli 1.9.1' (since 17m 1.22s)
+2025.11.13 12:58:03 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Spacecraft.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 12:58:03 INFO  compiling scalademo_c304e17189 (5 scala sources)
+2025.11.13 12:58:03 INFO  compiling scalademo_c304e17189 (5 scala sources)
+2025.11.13 12:58:03 INFO  time: compiled ScalaDemo_c304e17189 in 0.2s
+2025.11.13 12:58:03 INFO  time: Imported build in 0.39s
+2025.11.13 12:58:03 INFO  compiling scalademo_c304e17189 (5 scala sources)
+2025.11.13 12:58:03 INFO  time: compiled ScalaDemo_c304e17189 in 0.17s
+2025.11.13 12:58:03 INFO  time: indexed workspace in 0.92s
+2025.11.13 12:58:04 INFO  compiling scalademo_c304e17189 (5 scala sources)
+2025.11.13 12:58:04 INFO  time: compiled ScalaDemo_c304e17189 in 0.11s
+2025.11.13 12:58:38 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/QuestionNo1.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 12:58:38 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Day6/QuestionNo1.scala
+2025.11.13 12:58:38 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/QuestionNo1.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 12:58:39 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/QuestionNo1.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 12:58:39 INFO  compiling scalademo_c304e17189 (5 scala sources)
+2025.11.13 12:58:39 INFO  time: compiled ScalaDemo_c304e17189 in 0.14s
+2025.11.13 12:58:39 INFO  compiling scalademo_c304e17189 (5 scala sources)
+2025.11.13 12:58:39 INFO  time: compiled ScalaDemo_c304e17189 in 0.11s
+2025.11.13 12:58:40 INFO  time: indexed workspace in 0.96s
+2025.11.13 12:58:40 INFO  compiling scalademo_c304e17189 (5 scala sources)
+2025.11.13 12:58:40 INFO  time: compiled ScalaDemo_c304e17189 in 98ms
+2025.11.13 12:59:53 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question2.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 12:59:53 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Day6/Question2.scala
+2025.11.13 12:59:53 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question2.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 12:59:53 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question2.scala
+2025.11.13 12:59:53 INFO  compiling scalademo_c304e17189 (6 scala sources)
+2025.11.13 12:59:53 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 12:59:53 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question2.scala
+2025.11.13 12:59:53 INFO  compiling scalademo_c304e17189 (6 scala sources)
+2025.11.13 12:59:53 INFO  time: compiled ScalaDemo_c304e17189 in 0.1s
+2025.11.13 12:59:54 INFO  time: indexed workspace in 0.89s
+2025.11.13 12:59:53 INFO  compiling scalademo_c304e17189 (6 scala sources)
+2025.11.13 12:59:54 INFO  time: compiled ScalaDemo_c304e17189 in 99ms
+2025.11.13 12:59:54 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question2.scala
+2025.11.13 13:00:01 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question2.scala
+2025.11.13 13:00:03 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question2.scala
+2025.11.13 13:00:03 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question2.scala
+2025.11.13 13:00:05 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question2.scala
+Nov 13, 2025 1:00:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 671
+Nov 13, 2025 1:03:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1253
+Nov 13, 2025 1:04:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1678
+Nov 13, 2025 1:09:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2153
+2025.11.13 13:23:02 INFO  compiling scalademo_c304e17189 (6 scala sources)
+2025.11.13 13:23:02 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 13:29:31 INFO  compiling scalademo_c304e17189 (6 scala sources)
+2025.11.13 13:29:31 INFO  time: compiled ScalaDemo_c304e17189 in 0.14s
+Nov 13, 2025 1:30:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2719
+2025.11.13 13:30:16 INFO  compiling scalademo_c304e17189 (6 scala sources)
+2025.11.13 13:30:16 INFO  time: compiled ScalaDemo_c304e17189 in 0.14s
+2025.11.13 13:30:56 INFO  compiling scalademo_c304e17189 (6 scala sources)
+2025.11.13 13:30:56 INFO  time: compiled ScalaDemo_c304e17189 in 0.17s
+2025.11.13 13:37:14 INFO  compiling scalademo_c304e17189 (6 scala sources)
+2025.11.13 13:37:14 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+Nov 13, 2025 1:39:11 PM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /Users/racit/Documents/ScalaDemo/Day6/Question1/Spacecraft.scala
+java.nio.file.NoSuchFileException: /Users/racit/Documents/ScalaDemo/Day6/Question1/Spacecraft.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:218)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:42)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:18)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:509)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:101)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:291)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:302)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:218)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:218)
+	at scala.collection.immutable.Set$Set3.foreach(Set.scala:261)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:218)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:191)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:143)
+	at scala.collection.immutable.List.flatMap(List.scala:283)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:143)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:138)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at dotty.tools.pc.utils.InteractiveEnrichments$.symbolDocumentation(InteractiveEnrichments.scala:286)
+	at dotty.tools.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:135)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:135)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:452)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:149)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:133)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:210)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+Nov 13, 2025 1:39:11 PM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /Users/racit/Documents/ScalaDemo/Day6/Question1/Spacecraft.scala
+java.nio.file.NoSuchFileException: /Users/racit/Documents/ScalaDemo/Day6/Question1/Spacecraft.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:218)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:42)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:18)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:509)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:101)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:291)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:302)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:313)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:218)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:218)
+	at scala.collection.immutable.Set$Set3.foreach(Set.scala:261)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:218)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:191)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:143)
+	at scala.collection.immutable.List.flatMap(List.scala:283)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:143)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:138)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at dotty.tools.pc.utils.InteractiveEnrichments$.symbolDocumentation(InteractiveEnrichments.scala:286)
+	at dotty.tools.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:135)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:135)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:452)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:149)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:133)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:210)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+Nov 13, 2025 1:39:11 PM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /Users/racit/Documents/ScalaDemo/Day6/Spacecraft.scala
+java.nio.file.NoSuchFileException: /Users/racit/Documents/ScalaDemo/Day6/Spacecraft.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:218)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:42)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:18)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:509)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:101)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:291)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:302)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:218)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:218)
+	at scala.collection.immutable.Set$Set3.foreach(Set.scala:261)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:218)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:191)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:143)
+	at scala.collection.immutable.List.flatMap(List.scala:283)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:143)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:138)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at dotty.tools.pc.utils.InteractiveEnrichments$.symbolDocumentation(InteractiveEnrichments.scala:286)
+	at dotty.tools.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:135)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:135)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:452)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:149)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:133)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:210)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+Nov 13, 2025 1:39:11 PM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /Users/racit/Documents/ScalaDemo/Day6/Spacecraft.scala
+java.nio.file.NoSuchFileException: /Users/racit/Documents/ScalaDemo/Day6/Spacecraft.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:218)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:42)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:18)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:509)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:101)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:291)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:302)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:313)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:218)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:218)
+	at scala.collection.immutable.Set$Set3.foreach(Set.scala:261)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:218)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:191)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:143)
+	at scala.collection.immutable.List.flatMap(List.scala:283)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:143)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:138)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at dotty.tools.pc.utils.InteractiveEnrichments$.symbolDocumentation(InteractiveEnrichments.scala:286)
+	at dotty.tools.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:135)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:135)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:452)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:149)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:133)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:210)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+2025.11.13 13:40:16 INFO  compiling scalademo_c304e17189 (6 scala sources)
+2025.11.13 13:40:16 INFO  time: compiled ScalaDemo_c304e17189 in 0.14s
+2025.11.13 14:22:54 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question3.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 14:22:54 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Day6/Question3.scala
+2025.11.13 14:22:54 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question3.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 14:22:54 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question3.scala
+2025.11.13 14:22:54 INFO  compiling scalademo_c304e17189 (7 scala sources)
+2025.11.13 14:22:54 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 14:22:54 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question3.scala
+2025.11.13 14:22:54 INFO  compiling scalademo_c304e17189 (7 scala sources)
+2025.11.13 14:22:54 INFO  time: compiled ScalaDemo_c304e17189 in 93ms
+2025.11.13 14:22:55 INFO  time: indexed workspace in 0.84s
+2025.11.13 14:22:54 INFO  compiling scalademo_c304e17189 (7 scala sources)
+2025.11.13 14:22:55 INFO  time: compiled ScalaDemo_c304e17189 in 96ms
+2025.11.13 14:22:55 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question3.scala
+2025.11.13 14:24:34 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question3.scala
+2025.11.13 14:24:35 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question3.scala
+2025.11.13 14:24:35 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question3.scala
+2025.11.13 14:24:36 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question3.scala
+2025.11.13 14:24:37 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question3.scala
+Nov 13, 2025 2:29:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3965
+Nov 13, 2025 2:30:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4274
+Nov 13, 2025 2:38:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4796
+2025.11.13 14:41:06 INFO  compiling scalademo_c304e17189 (7 scala sources)
+2025.11.13 14:41:06 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 14:41:19 INFO  compiling scalademo_c304e17189 (7 scala sources)
+2025.11.13 14:41:19 INFO  time: compiled ScalaDemo_c304e17189 in 0.13s
+2025.11.13 14:43:24 INFO  compiling scalademo_c304e17189 (7 scala sources)
+2025.11.13 14:43:24 INFO  time: compiled ScalaDemo_c304e17189 in 0.25s
+Nov 13, 2025 2:43:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5714
+2025.11.13 14:47:13 INFO  compiling scalademo_c304e17189 (7 scala sources)
+2025.11.13 14:47:13 INFO  time: compiled ScalaDemo_c304e17189 in 0.14s
+2025.11.13 14:48:29 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question1.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 14:48:29 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Day6/Question1.scala
+2025.11.13 14:48:29 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question1.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 14:48:29 INFO  Cancelling compilation on scala-cli server
+2025.11.13 14:48:29 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question1.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 14:48:29 INFO  Deduplicating compilation of ScalaDemo_c304e17189 from bsp client 'scala-cli 1.9.1' (since 2h 7m 27.551s)
+2025.11.13 14:48:29 INFO  compiling scalademo_c304e17189 (7 scala sources)
+2025.11.13 14:48:29 INFO  compiling scalademo_c304e17189 (7 scala sources)
+2025.11.13 14:48:29 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question1.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 14:48:29 INFO  time: compiled ScalaDemo_c304e17189 in 0.14s
+2025.11.13 14:48:30 INFO  time: Imported build in 0.35s
+2025.11.13 14:48:29 INFO  compiling scalademo_c304e17189 (7 scala sources)
+2025.11.13 14:48:29 INFO  time: compiled ScalaDemo_c304e17189 in 0.12s
+2025.11.13 14:48:30 INFO  time: indexed workspace in 0.76s
+2025.11.13 14:48:31 INFO  compiling scalademo_c304e17189 (7 scala sources)
+2025.11.13 14:48:31 INFO  time: compiled ScalaDemo_c304e17189 in 0.1s
+2025.11.13 14:53:20 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question4.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 14:53:20 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Day6/Question4.scala
+2025.11.13 14:53:20 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question4.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 14:53:20 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question4.scala
+2025.11.13 14:53:21 INFO  compiling scalademo_c304e17189 (8 scala sources)
+2025.11.13 14:53:20 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question4.scala
+2025.11.13 14:53:21 INFO  time: compiled ScalaDemo_c304e17189 in 0.2s
+2025.11.13 14:53:21 INFO  compiling scalademo_c304e17189 (8 scala sources)
+2025.11.13 14:53:21 INFO  time: compiled ScalaDemo_c304e17189 in 0.12s
+2025.11.13 14:53:22 INFO  time: indexed workspace in 0.83s
+2025.11.13 14:53:21 INFO  compiling scalademo_c304e17189 (8 scala sources)
+2025.11.13 14:53:22 INFO  time: compiled ScalaDemo_c304e17189 in 0.1s
+2025.11.13 14:53:22 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question4.scala
+2025.11.13 14:54:06 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question4.scala
+2025.11.13 14:54:07 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question4.scala
+2025.11.13 14:54:07 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question4.scala
+2025.11.13 14:54:07 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question4.scala
+Nov 13, 2025 2:56:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6657
+Nov 13, 2025 2:57:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6772
+2025.11.13 14:57:57 INFO  compiling scalademo_c304e17189 (8 scala sources)
+2025.11.13 14:57:57 INFO  time: compiled ScalaDemo_c304e17189 in 0.18s
+Nov 13, 2025 2:58:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6941
+2025.11.13 14:58:59 INFO  compiling scalademo_c304e17189 (8 scala sources)
+2025.11.13 14:58:59 INFO  time: compiled ScalaDemo_c304e17189 in 0.17s
+2025.11.13 14:59:03 INFO  compiling scalademo_c304e17189 (8 scala sources)
+2025.11.13 14:59:03 INFO  time: compiled ScalaDemo_c304e17189 in 99ms
+Nov 13, 2025 3:01:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7282
+Nov 13, 2025 3:02:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7392
+2025.11.13 15:04:03 INFO  compiling scalademo_c304e17189 (8 scala sources)
+2025.11.13 15:04:03 INFO  time: compiled ScalaDemo_c304e17189 in 0.29s
+2025.11.13 15:04:11 INFO  compiling scalademo_c304e17189 (8 scala sources)
+2025.11.13 15:04:11 INFO  time: compiled ScalaDemo_c304e17189 in 0.18s
+2025.11.13 15:04:48 INFO  compiling scalademo_c304e17189 (8 scala sources)
+2025.11.13 15:04:48 INFO  time: compiled ScalaDemo_c304e17189 in 0.13s
+Nov 13, 2025 3:06:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7832
+2025.11.13 15:07:38 INFO  compiling scalademo_c304e17189 (8 scala sources)
+2025.11.13 15:07:38 INFO  time: compiled ScalaDemo_c304e17189 in 0.17s
+2025.11.13 15:09:29 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/com.a1.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 15:09:29 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Day6/Question5/com.a1.scala
+2025.11.13 15:09:29 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/com.a1.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 15:09:29 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/com.a1.scala
+2025.11.13 15:09:29 INFO  compiling scalademo_c304e17189 (9 scala sources)
+2025.11.13 15:09:30 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/com.a1.scala
+2025.11.13 15:09:29 INFO  time: compiled ScalaDemo_c304e17189 in 0.16s
+2025.11.13 15:09:29 INFO  compiling scalademo_c304e17189 (9 scala sources)
+2025.11.13 15:09:29 INFO  time: compiled ScalaDemo_c304e17189 in 0.1s
+2025.11.13 15:09:30 INFO  time: indexed workspace in 0.82s
+2025.11.13 15:09:29 INFO  compiling scalademo_c304e17189 (9 scala sources)
+2025.11.13 15:09:30 INFO  time: compiled ScalaDemo_c304e17189 in 0.14s
+2025.11.13 15:09:30 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/com.a1.scala
+2025.11.13 15:09:45 INFO  compiling scalademo_c304e17189 (8 scala sources)
+2025.11.13 15:09:45 INFO  time: compiled ScalaDemo_c304e17189 in 0.14s
+2025.11.13 15:09:45 INFO  compiling scalademo_c304e17189 (8 scala sources)
+2025.11.13 15:09:45 INFO  time: compiled ScalaDemo_c304e17189 in 83ms
+2025.11.13 15:09:46 INFO  time: indexed workspace in 0.8s
+2025.11.13 15:09:45 INFO  compiling scalademo_c304e17189 (8 scala sources)
+2025.11.13 15:09:46 INFO  time: compiled ScalaDemo_c304e17189 in 0.11s
+2025.11.13 15:12:20 INFO  compiling scalademo_c304e17189 (8 scala sources)
+2025.11.13 15:12:20 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 15:12:38 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/a1.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 15:12:38 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Day6/Question5/a1.scala
+2025.11.13 15:12:38 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/a1.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 15:12:38 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/a1.scala
+2025.11.13 15:12:38 INFO  compiling scalademo_c304e17189 (9 scala sources)
+2025.11.13 15:12:38 INFO  time: compiled ScalaDemo_c304e17189 in 0.13s
+2025.11.13 15:12:38 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/a1.scala
+2025.11.13 15:12:38 INFO  compiling scalademo_c304e17189 (9 scala sources)
+2025.11.13 15:12:38 INFO  time: compiled ScalaDemo_c304e17189 in 0.1s
+2025.11.13 15:12:38 INFO  time: indexed workspace in 0.75s
+2025.11.13 15:12:38 INFO  compiling scalademo_c304e17189 (9 scala sources)
+2025.11.13 15:12:38 INFO  time: compiled ScalaDemo_c304e17189 in 0.1s
+2025.11.13 15:12:39 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/a1.scala
+2025.11.13 15:12:40 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/a1.scala
+2025.11.13 15:12:40 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/a1.scala
+2025.11.13 15:12:41 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/a1.scala
+2025.11.13 15:16:50 INFO  compiling scalademo_c304e17189 (8 scala sources)
+2025.11.13 15:16:50 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 15:16:50 INFO  compiling scalademo_c304e17189 (8 scala sources)
+2025.11.13 15:16:50 INFO  time: compiled ScalaDemo_c304e17189 in 94ms
+2025.11.13 15:16:51 INFO  time: indexed workspace in 0.82s
+2025.11.13 15:16:50 INFO  compiling scalademo_c304e17189 (8 scala sources)
+2025.11.13 15:16:51 INFO  time: compiled ScalaDemo_c304e17189 in 0.1s
+2025.11.13 15:21:01 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/Library.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 15:21:01 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/Library.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 15:21:01 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Day6/Question5/Library.scala
+2025.11.13 15:21:01 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/Library.scala
+2025.11.13 15:21:02 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/Library.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 15:21:02 INFO  compiling scalademo_c304e17189 (9 scala sources)
+2025.11.13 15:21:02 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/Library.scala
+2025.11.13 15:21:02 INFO  time: compiled ScalaDemo_c304e17189 in 0.16s
+2025.11.13 15:21:02 INFO  compiling scalademo_c304e17189 (9 scala sources)
+2025.11.13 15:21:02 INFO  time: compiled ScalaDemo_c304e17189 in 97ms
+2025.11.13 15:21:02 INFO  time: indexed workspace in 0.85s
+2025.11.13 15:21:02 INFO  compiling scalademo_c304e17189 (9 scala sources)
+2025.11.13 15:21:03 INFO  time: compiled ScalaDemo_c304e17189 in 0.1s
+2025.11.13 15:21:02 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/Library.scala
+2025.11.13 15:21:52 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/ItemType.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 15:21:52 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Day6/Question5/ItemType.scala
+2025.11.13 15:21:52 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/ItemType.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 15:21:52 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/ItemType.scala
+2025.11.13 15:21:52 INFO  compiling scalademo_c304e17189 (9 scala sources)
+2025.11.13 15:21:52 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 15:21:52 INFO  compiling scalademo_c304e17189 (9 scala sources)
+2025.11.13 15:21:52 INFO  time: compiled ScalaDemo_c304e17189 in 0.11s
+2025.11.13 15:21:53 INFO  time: indexed workspace in 0.79s
+2025.11.13 15:21:52 INFO  compiling scalademo_c304e17189 (9 scala sources)
+2025.11.13 15:21:52 INFO  time: compiled ScalaDemo_c304e17189 in 96ms
+2025.11.13 15:21:53 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/ItemType.scala
+2025.11.13 15:21:56 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/ItemType.scala
+2025.11.13 15:21:57 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/ItemType.scala
+Nov 13, 2025 3:25:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8545
+Nov 13, 2025 3:29:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8918
+Nov 13, 2025 3:29:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8935
+Nov 13, 2025 3:29:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8941
+2025.11.13 15:29:16 INFO  compiling scalademo_c304e17189 (9 scala sources)
+2025.11.13 15:29:16 INFO  time: compiled ScalaDemo_c304e17189 in 0.16s
+2025.11.13 15:30:44 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/Member.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 15:30:44 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/Member.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 15:30:44 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Day6/Question5/Member.scala
+2025.11.13 15:30:44 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/Member.scala
+2025.11.13 15:30:44 INFO  compiling scalademo_c304e17189 (10 scala sources)
+2025.11.13 15:30:44 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/Member.scala
+2025.11.13 15:30:44 INFO  time: compiled ScalaDemo_c304e17189 in 0.22s
+2025.11.13 15:30:44 INFO  compiling scalademo_c304e17189 (10 scala sources)
+2025.11.13 15:30:44 INFO  time: compiled ScalaDemo_c304e17189 in 0.11s
+2025.11.13 15:30:45 INFO  time: indexed workspace in 0.86s
+2025.11.13 15:30:45 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/Member.scala
+2025.11.13 15:30:44 INFO  compiling scalademo_c304e17189 (10 scala sources)
+2025.11.13 15:30:45 INFO  time: compiled ScalaDemo_c304e17189 in 0.1s
+2025.11.13 15:30:45 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/Member.scala
+Nov 13, 2025 3:30:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8981
+2025.11.13 15:30:45 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/Member.scala
+2025.11.13 15:30:46 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/Member.scala
+2025.11.13 15:30:47 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/Member.scala
+2025.11.13 15:33:30 INFO  compiling scalademo_c304e17189 (10 scala sources)
+2025.11.13 15:33:30 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 15:33:44 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryItem.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 15:33:44 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryItem.scala
+2025.11.13 15:33:44 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryItem.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 15:33:44 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryItem.scala
+2025.11.13 15:33:45 INFO  compiling scalademo_c304e17189 (11 scala sources)
+2025.11.13 15:33:44 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryItem.scala
+2025.11.13 15:33:45 INFO  time: compiled ScalaDemo_c304e17189 in 0.18s
+2025.11.13 15:33:45 INFO  compiling scalademo_c304e17189 (11 scala sources)
+2025.11.13 15:33:45 INFO  time: compiled ScalaDemo_c304e17189 in 96ms
+2025.11.13 15:33:45 INFO  time: indexed workspace in 0.87s
+2025.11.13 15:33:45 INFO  compiling scalademo_c304e17189 (11 scala sources)
+2025.11.13 15:33:46 INFO  time: compiled ScalaDemo_c304e17189 in 0.1s
+2025.11.13 15:33:46 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryItem.scala
+2025.11.13 15:33:47 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryItem.scala
+2025.11.13 15:33:47 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryItem.scala
+2025.11.13 15:33:48 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryItem.scala
+2025.11.13 15:33:48 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryItem.scala
+2025.11.13 15:33:48 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryItem.scala
+Nov 13, 2025 3:34:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9461
+Nov 13, 2025 3:36:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9774
+Nov 13, 2025 3:37:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9912
+2025.11.13 15:37:41 INFO  compiling scalademo_c304e17189 (11 scala sources)
+2025.11.13 15:37:41 INFO  time: compiled ScalaDemo_c304e17189 in 0.25s
+2025.11.13 15:39:29 INFO  compiling scalademo_c304e17189 (11 scala sources)
+2025.11.13 15:39:29 INFO  time: compiled ScalaDemo_c304e17189 in 0.16s
+2025.11.13 15:40:52 INFO  compiling scalademo_c304e17189 (11 scala sources)
+2025.11.13 15:40:52 INFO  time: compiled ScalaDemo_c304e17189 in 0.16s
+2025.11.13 15:41:17 INFO  compiling scalademo_c304e17189 (11 scala sources)
+2025.11.13 15:41:17 INFO  time: compiled ScalaDemo_c304e17189 in 0.13s
+2025.11.13 15:42:14 INFO  compiling scalademo_c304e17189 (11 scala sources)
+2025.11.13 15:42:14 INFO  time: compiled ScalaDemo_c304e17189 in 0.13s
+2025.11.13 15:42:17 INFO  compiling scalademo_c304e17189 (11 scala sources)
+2025.11.13 15:42:17 INFO  time: compiled ScalaDemo_c304e17189 in 0.13s
+2025.11.13 15:42:29 INFO  compiling scalademo_c304e17189 (11 scala sources)
+2025.11.13 15:42:29 INFO  time: compiled ScalaDemo_c304e17189 in 0.12s
+2025.11.13 15:42:33 INFO  Created report: Optional[file:///Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryItem.scala]
+2025.11.13 15:42:33 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/metals-full/2025-11-13/r_empty-definition_(ScalaDemo_5fc304e17189)_15-42-33-760.md")
+2025.11.13 15:43:57 INFO  compiling scalademo_c304e17189 (11 scala sources)
+2025.11.13 15:43:57 INFO  time: compiled ScalaDemo_c304e17189 in 0.13s
+2025.11.13 15:44:27 INFO  compiling scalademo_c304e17189 (11 scala sources)
+2025.11.13 15:44:27 INFO  time: compiled ScalaDemo_c304e17189 in 0.12s
+2025.11.13 15:48:10 INFO  compiling scalademo_c304e17189 (11 scala sources)
+2025.11.13 15:48:10 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 15:48:10 INFO  time: compiled ScalaDemo_c304e17189 in 0.14s
+2025.11.13 15:48:20 INFO  compiling scalademo_c304e17189 (11 scala sources)
+2025.11.13 15:48:20 INFO  time: compiled ScalaDemo_c304e17189 in 0.12s
+2025.11.13 15:48:57 INFO  compiling scalademo_c304e17189 (11 scala sources)
+2025.11.13 15:48:57 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 15:48:57 INFO  time: compiled ScalaDemo_c304e17189 in 0.13s
+2025.11.13 15:49:21 INFO  compiling scalademo_c304e17189 (11 scala sources)
+2025.11.13 15:49:21 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 15:49:21 INFO  time: compiled ScalaDemo_c304e17189 in 0.27s
+2025.11.13 15:50:34 INFO  compiling scalademo_c304e17189 (11 scala sources)
+2025.11.13 15:50:34 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 15:50:34 INFO  time: compiled ScalaDemo_c304e17189 in 0.21s
+2025.11.13 15:50:51 INFO  compiling scalademo_c304e17189 (11 scala sources)
+2025.11.13 15:50:51 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 15:50:51 INFO  time: compiled ScalaDemo_c304e17189 in 0.13s
+2025.11.13 15:53:24 INFO  compiling scalademo_c304e17189 (11 scala sources)
+2025.11.13 15:53:24 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 15:53:24 INFO  time: compiled ScalaDemo_c304e17189 in 0.13s
+2025.11.13 15:54:50 INFO  compiling scalademo_c304e17189 (11 scala sources)
+2025.11.13 15:54:50 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 15:54:50 INFO  time: compiled ScalaDemo_c304e17189 in 0.14s
+2025.11.13 15:57:13 INFO  compiling scalademo_c304e17189 (11 scala sources)
+2025.11.13 15:57:13 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 15:57:13 INFO  time: compiled ScalaDemo_c304e17189 in 0.14s
+2025.11.13 15:57:48 INFO  Created report: Optional[file:///Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryItem.scala]
+2025.11.13 15:57:48 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/metals-full/2025-11-13/r_empty-definition_(ScalaDemo_5fc304e17189)_15-57-48-335.md")
+2025.11.13 15:57:54 INFO  compiling scalademo_c304e17189 (11 scala sources)
+2025.11.13 15:57:54 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 15:57:54 INFO  time: compiled ScalaDemo_c304e17189 in 0.12s
+2025.11.13 16:01:54 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryMain.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 16:01:54 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryMain.scala
+2025.11.13 16:01:54 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryMain.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 16:01:54 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryMain.scala
+2025.11.13 16:01:54 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 16:01:54 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryMain.scala
+2025.11.13 16:01:54 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 16:01:54 INFO  time: compiled ScalaDemo_c304e17189 in 0.2s
+2025.11.13 16:01:54 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 16:01:54 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 16:01:54 INFO  time: compiled ScalaDemo_c304e17189 in 0.11s
+2025.11.13 16:01:55 INFO  time: indexed workspace in 0.82s
+2025.11.13 16:01:54 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 16:01:55 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 16:01:55 INFO  time: compiled ScalaDemo_c304e17189 in 0.11s
+2025.11.13 16:01:55 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryMain.scala
+2025.11.13 16:02:13 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 16:02:13 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 16:02:13 INFO  time: compiled ScalaDemo_c304e17189 in 0.19s
+2025.11.13 16:02:18 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 16:02:18 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 16:02:18 INFO  time: compiled ScalaDemo_c304e17189 in 0.14s
+Nov 13, 2025 5:41:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11819
+2025.11.13 17:42:17 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 17:42:17 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 17:42:17 INFO  time: compiled ScalaDemo_c304e17189 in 0.19s
+2025.11.13 17:42:23 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 17:42:23 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 17:42:23 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 17:42:31 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 17:42:31 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 17:42:31 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 17:42:35 INFO  Created report: Optional[file:///Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryMain.scala]
+2025.11.13 17:42:35 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/metals-full/2025-11-13/r_empty-definition_(ScalaDemo_5fc304e17189)_17-42-35-299.md")
+2025.11.13 17:42:38 INFO  Created report: Optional[file:///Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryMain.scala]
+2025.11.13 17:42:38 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/metals-full/2025-11-13/r_empty-definition_(ScalaDemo_5fc304e17189)_17-42-38-656.md")
+2025.11.13 17:42:41 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 17:42:41 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 17:42:41 INFO  time: compiled ScalaDemo_c304e17189 in 0.32s
+Nov 13, 2025 5:44:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12086
+Nov 13, 2025 5:45:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12125
+2025.11.13 17:47:23 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 17:47:23 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 17:47:23 INFO  time: compiled ScalaDemo_c304e17189 in 0.25s
+2025.11.13 17:47:30 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 17:47:30 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 17:47:30 INFO  time: compiled ScalaDemo_c304e17189 in 0.23s
+Nov 13, 2025 5:47:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.11.13 17:48:28 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 17:48:28 INFO  Created report: Optional[file:///Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryMain.scala]
+2025.11.13 17:48:28 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/metals-full/2025-11-13/r_empty-definition_(ScalaDemo_5fc304e17189)_17-48-28-458.md")
+2025.11.13 17:48:28 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 17:48:28 INFO  time: compiled ScalaDemo_c304e17189 in 0.23s
+2025.11.13 17:49:00 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 17:49:00 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 17:49:00 INFO  time: compiled ScalaDemo_c304e17189 in 0.14s
+2025.11.13 17:49:02 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 17:49:02 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 17:49:02 INFO  time: compiled ScalaDemo_c304e17189 in 0.14s
+2025.11.13 17:49:05 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 17:49:05 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 17:49:05 INFO  time: compiled ScalaDemo_c304e17189 in 94ms
+2025.11.13 17:49:07 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 17:49:07 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 17:49:07 INFO  time: compiled ScalaDemo_c304e17189 in 0.2s
+2025.11.13 17:49:09 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 17:49:09 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 17:49:09 INFO  time: compiled ScalaDemo_c304e17189 in 0.18s
+2025.11.13 17:49:11 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 17:49:11 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 17:49:11 INFO  time: compiled ScalaDemo_c304e17189 in 0.18s
+2025.11.13 17:49:14 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 17:49:14 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 17:49:14 INFO  time: compiled ScalaDemo_c304e17189 in 0.12s
+2025.11.13 17:49:17 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 17:49:17 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 17:49:17 INFO  time: compiled ScalaDemo_c304e17189 in 0.18s
+2025.11.13 17:49:25 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 17:49:25 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 17:49:25 INFO  time: compiled ScalaDemo_c304e17189 in 0.12s
+2025.11.13 17:49:27 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 17:49:27 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 17:49:27 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 17:49:44 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 17:49:44 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 17:49:44 INFO  time: compiled ScalaDemo_c304e17189 in 0.14s
+2025.11.13 17:49:49 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 17:49:49 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 17:49:49 INFO  time: compiled ScalaDemo_c304e17189 in 0.1s
+2025.11.13 17:49:50 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 17:49:50 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 17:49:50 INFO  time: compiled ScalaDemo_c304e17189 in 0.18s
+2025.11.13 17:49:54 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 17:49:54 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 17:49:54 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 17:58:54 WARN  Could not find 'borrow' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2025.11.13 17:58:54 INFO  Created report: Optional[file:///Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryMain.scala]
+2025.11.13 17:58:54 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/metals-full/2025-11-13/r_empty-definition_(ScalaDemo_5fc304e17189)_17-58-54-018.md")
+2025.11.13 17:58:55 WARN  Could not find 'borrow' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2025.11.13 17:58:55 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/metals-full/2025-11-13/r_empty-definition_(ScalaDemo_5fc304e17189)_17-58-54-018.md")
+Nov 13, 2025 5:59:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12824
+2025.11.13 18:00:02 INFO  Created report: Optional[file:///Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryItem.scala]
+2025.11.13 18:00:02 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/metals-full/2025-11-13/r_empty-definition_(ScalaDemo_5fc304e17189)_18-00-02-885.md")
+2025.11.13 18:00:03 WARN  Could not find 'ItemType' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2025.11.13 18:00:03 INFO  Created report: Optional[file:///Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryItem.scala]
+2025.11.13 18:00:03 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/metals-full/2025-11-13/r_empty-definition_(ScalaDemo_5fc304e17189)_18-00-03-524.md")
+2025.11.13 18:00:03 WARN  Could not find 'ItemType' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2025.11.13 18:00:03 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/metals-full/2025-11-13/r_empty-definition_(ScalaDemo_5fc304e17189)_18-00-03-524.md")
+2025.11.13 18:01:33 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:01:33 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 18:01:33 INFO  time: compiled ScalaDemo_c304e17189 in 0.24s
+2025.11.13 18:01:46 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:01:46 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 18:01:46 INFO  time: compiled ScalaDemo_c304e17189 in 0.2s
+2025.11.13 18:01:48 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:01:48 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 18:01:48 INFO  time: compiled ScalaDemo_c304e17189 in 0.16s
+2025.11.13 18:02:09 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:02:09 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 18:02:09 INFO  time: compiled ScalaDemo_c304e17189 in 0.19s
+2025.11.13 18:02:13 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:02:13 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 18:02:13 INFO  time: compiled ScalaDemo_c304e17189 in 0.18s
+2025.11.13 18:03:04 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/library/items/ItemType.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 18:03:04 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/library/items/ItemType.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 18:03:04 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Day6/Question5/library/items/ItemType.scala
+2025.11.13 18:03:04 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/library/items/ItemType.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 18:03:04 INFO  Cancelling compilation on scala-cli server
+2025.11.13 18:03:04 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/library/items/ItemType.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 18:03:04 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/library/items/ItemType.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 18:03:04 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:03:04 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 18:03:04 INFO  time: compiled ScalaDemo_c304e17189 in 0.23s
+2025.11.13 18:03:04 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:03:04 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 18:03:04 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 18:03:05 INFO  time: Imported build in 0.61s
+2025.11.13 18:03:04 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:03:04 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 18:03:04 INFO  time: compiled ScalaDemo_c304e17189 in 0.2s
+2025.11.13 18:03:05 INFO  time: indexed workspace in 0.85s
+2025.11.13 18:03:06 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:03:06 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 18:03:06 INFO  time: compiled ScalaDemo_c304e17189 in 0.17s
+2025.11.13 18:03:37 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryOperations.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 18:03:37 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryOperations.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 18:03:37 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryOperations.scala
+2025.11.13 18:03:37 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryOperations.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 18:03:38 INFO  Cancelling compilation on scala-cli server
+2025.11.13 18:03:37 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryOperations.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 18:03:37 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryOperations.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 18:03:38 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:03:38 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 18:03:38 INFO  time: compiled ScalaDemo_c304e17189 in 0.21s
+2025.11.13 18:03:38 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:03:38 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 18:03:38 INFO  time: compiled ScalaDemo_c304e17189 in 0.17s
+2025.11.13 18:03:38 INFO  time: Imported build in 0.6s
+2025.11.13 18:03:38 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:03:38 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 18:03:38 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 18:03:39 INFO  time: indexed workspace in 0.74s
+2025.11.13 18:03:39 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:03:39 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 18:03:39 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 18:03:42 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/library/operations/LibraryOperations.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 18:03:42 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/library/operations/LibraryOperations.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 18:03:42 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Day6/Question5/library/operations/LibraryOperations.scala
+2025.11.13 18:03:42 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/library/operations/LibraryOperations.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 18:03:42 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/library/operations/LibraryOperations.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 18:03:42 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/library/operations/LibraryOperations.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 18:03:42 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:03:42 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 18:03:42 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:03:42 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 18:03:42 INFO  time: compiled ScalaDemo_c304e17189 in 0.28s
+2025.11.13 18:03:43 INFO  time: indexed workspace in 1.06s
+2025.11.13 18:03:43 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:03:43 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 18:03:43 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 18:03:50 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question5/library/users/Member.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 18:03:50 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Day6/Question5/library/users/Member.scala
+2025.11.13 18:03:50 INFO  Cancelling compilation on scala-cli server
+2025.11.13 18:03:50 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:03:50 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 18:03:50 INFO  time: compiled ScalaDemo_c304e17189 in 0.19s
+2025.11.13 18:03:51 INFO  time: Imported build in 0.41s
+2025.11.13 18:03:50 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:03:50 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 18:03:50 INFO  time: compiled ScalaDemo_c304e17189 in 0.2s
+2025.11.13 18:03:50 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:03:50 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 18:03:50 INFO  time: compiled ScalaDemo_c304e17189 in 0.21s
+2025.11.13 18:03:52 INFO  time: indexed workspace in 0.96s
+2025.11.13 18:03:52 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:03:52 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 18:03:52 INFO  time: compiled ScalaDemo_c304e17189 in 0.16s
+2025.11.13 18:04:01 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:04:01 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 18:04:01 INFO  time: compiled ScalaDemo_c304e17189 in 0.21s
+2025.11.13 18:04:08 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:04:08 WARN  there was 1 feature warning; re-run with -feature for details
+2025.11.13 18:04:08 INFO  time: compiled ScalaDemo_c304e17189 in 0.18s
+2025.11.13 18:04:16 INFO  Created report: Optional[file:///Users/racit/Documents/ScalaDemo/Day6/Question5/library/operations/LibraryOperations.scala]
+2025.11.13 18:04:16 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/metals-full/2025-11-13/r_empty-definition_(ScalaDemo_5fc304e17189)_18-04-16-301.md")
+2025.11.13 18:04:18 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:04:18 INFO  time: compiled ScalaDemo_c304e17189 in 0.19s
+2025.11.13 18:04:31 INFO  Created report: Optional[file:///Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryMain.scala]
+2025.11.13 18:04:31 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/metals-full/2025-11-13/r_empty-definition_(ScalaDemo_5fc304e17189)_18-04-31-458.md")
+2025.11.13 18:04:33 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:04:33 INFO  time: compiled ScalaDemo_c304e17189 in 0.14s
+Nov 13, 2025 6:04:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13228
+2025.11.13 18:04:56 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:04:56 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 18:04:58 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:04:58 INFO  time: compiled ScalaDemo_c304e17189 in 0.14s
+2025.11.13 18:05:01 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:05:01 INFO  time: compiled ScalaDemo_c304e17189 in 0.16s
+2025.11.13 18:29:11 INFO  Created report: Optional[file:///Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryMain.scala]
+2025.11.13 18:29:11 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/metals-full/2025-11-13/r_empty-definition_(ScalaDemo_5fc304e17189)_18-29-11-347.md")
+2025.11.13 18:29:13 INFO  Created report: Optional[file:///Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryMain.scala]
+2025.11.13 18:29:13 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/metals-full/2025-11-13/r_empty-definition_(ScalaDemo_5fc304e17189)_18-29-13-474.md")
+Nov 13, 2025 6:29:45 PM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /Users/racit/Documents/ScalaDemo/Day6/Question5/ItemType.scala
+java.nio.file.NoSuchFileException: /Users/racit/Documents/ScalaDemo/Day6/Question5/ItemType.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:218)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:42)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:18)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:509)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:101)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:291)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:302)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$7(SymbolIndexBucket.scala:234)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$7$adapted(SymbolIndexBucket.scala:229)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:630)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:628)
+	at scala.collection.AbstractIterable.foreach(Iterable.scala:936)
+	at scala.collection.IterableOps$WithFilter.foreach(Iterable.scala:906)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:229)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:191)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:143)
+	at scala.collection.immutable.List.flatMap(List.scala:283)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:143)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.findInIndex$1(FallbackDefinitionProvider.scala:132)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$15(FallbackDefinitionProvider.scala:145)
+	at scala.collection.immutable.List.flatMap(List.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$3(FallbackDefinitionProvider.scala:145)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$2(FallbackDefinitionProvider.scala:47)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$1(FallbackDefinitionProvider.scala:44)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.search(FallbackDefinitionProvider.scala:43)
+	at scala.meta.internal.metals.DefinitionProvider.fromFallback$1(DefinitionProvider.scala:129)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$13(DefinitionProvider.scala:146)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$15(DefinitionProvider.scala:153)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:503)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+Nov 13, 2025 6:29:45 PM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /Users/racit/Documents/ScalaDemo/Day6/Question5/ItemType.scala
+java.nio.file.NoSuchFileException: /Users/racit/Documents/ScalaDemo/Day6/Question5/ItemType.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:218)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:42)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:18)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:509)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:101)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:291)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:302)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:313)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$7(SymbolIndexBucket.scala:234)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$7$adapted(SymbolIndexBucket.scala:229)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:630)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:628)
+	at scala.collection.AbstractIterable.foreach(Iterable.scala:936)
+	at scala.collection.IterableOps$WithFilter.foreach(Iterable.scala:906)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:229)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:191)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:143)
+	at scala.collection.immutable.List.flatMap(List.scala:283)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:143)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.findInIndex$1(FallbackDefinitionProvider.scala:132)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$15(FallbackDefinitionProvider.scala:145)
+	at scala.collection.immutable.List.flatMap(List.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$3(FallbackDefinitionProvider.scala:145)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$2(FallbackDefinitionProvider.scala:47)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$1(FallbackDefinitionProvider.scala:44)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.search(FallbackDefinitionProvider.scala:43)
+	at scala.meta.internal.metals.DefinitionProvider.fromFallback$1(DefinitionProvider.scala:129)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$13(DefinitionProvider.scala:146)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$15(DefinitionProvider.scala:153)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:503)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+2025.11.13 18:29:45 WARN  Could not find 'Book' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2025.11.13 18:29:45 INFO  Created report: Optional[file:///Users/racit/Documents/ScalaDemo/Day6/Question5/LibraryMain.scala]
+2025.11.13 18:29:45 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/metals-full/2025-11-13/r_empty-definition_(ScalaDemo_5fc304e17189)_18-29-45-257.md")
+2025.11.13 18:29:46 WARN  Could not find 'Book' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2025.11.13 18:29:46 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/metals-full/2025-11-13/r_empty-definition_(ScalaDemo_5fc304e17189)_18-29-45-257.md")
+2025.11.13 18:30:43 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:30:43 INFO  time: compiled ScalaDemo_c304e17189 in 0.17s
+2025.11.13 18:30:46 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:30:46 INFO  time: compiled ScalaDemo_c304e17189 in 0.18s
+2025.11.13 18:31:17 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:31:17 INFO  time: compiled ScalaDemo_c304e17189 in 0.16s
+2025.11.13 18:31:25 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:31:25 INFO  time: compiled ScalaDemo_c304e17189 in 0.23s
+2025.11.13 18:31:47 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:31:47 INFO  time: compiled ScalaDemo_c304e17189 in 0.14s
+2025.11.13 18:32:00 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:32:00 INFO  time: compiled ScalaDemo_c304e17189 in 0.19s
+2025.11.13 18:33:42 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:33:42 INFO  time: compiled ScalaDemo_c304e17189 in 0.22s
+2025.11.13 18:33:46 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:33:46 INFO  time: compiled ScalaDemo_c304e17189 in 0.21s
+Nov 13, 2025 6:33:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13618
+Nov 13, 2025 6:33:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13624
+2025.11.13 18:34:00 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:34:00 INFO  time: compiled ScalaDemo_c304e17189 in 0.2s
+2025.11.13 18:34:01 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:34:01 INFO  time: compiled ScalaDemo_c304e17189 in 0.21s
+2025.11.13 18:34:05 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:34:05 INFO  time: compiled ScalaDemo_c304e17189 in 0.2s
+2025.11.13 18:34:11 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:34:11 INFO  time: compiled ScalaDemo_c304e17189 in 0.19s
+2025.11.13 18:34:12 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:34:12 INFO  time: compiled ScalaDemo_c304e17189 in 0.2s
+2025.11.13 18:34:14 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:34:14 INFO  time: compiled ScalaDemo_c304e17189 in 0.19s
+2025.11.13 18:34:16 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:34:16 INFO  time: compiled ScalaDemo_c304e17189 in 0.17s
+2025.11.13 18:34:17 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:34:17 INFO  time: compiled ScalaDemo_c304e17189 in 0.18s
+2025.11.13 18:34:19 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:34:19 INFO  time: compiled ScalaDemo_c304e17189 in 0.17s
+2025.11.13 18:34:37 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:34:37 INFO  time: compiled ScalaDemo_c304e17189 in 0.17s
+Nov 13, 2025 6:34:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13790
+2025.11.13 18:34:55 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:34:55 INFO  time: compiled ScalaDemo_c304e17189 in 0.23s
+2025.11.13 18:35:08 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:35:08 INFO  time: compiled ScalaDemo_c304e17189 in 0.19s
+2025.11.13 18:35:27 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:35:27 INFO  time: compiled ScalaDemo_c304e17189 in 0.2s
+2025.11.13 18:35:30 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:35:30 INFO  time: compiled ScalaDemo_c304e17189 in 0.17s
+2025.11.13 18:35:32 INFO  compiling scalademo_c304e17189 (12 scala sources)
+2025.11.13 18:35:32 INFO  time: compiled ScalaDemo_c304e17189 in 93ms
+2025.11.13 18:36:11 INFO  Skipping reload with status 'Installed'
+2025.11.13 21:05:54 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question6/MySQLCon.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 21:05:54 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question6/MySQLCon.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 21:05:54 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Day6/Question6/MySQLCon.scala
+2025.11.13 21:05:54 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question6/MySQLCon.scala
+2025.11.13 21:05:54 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question6/MySQLCon.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 21:05:54 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question6/MySQLCon.scala
+2025.11.13 21:05:55 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:05:56 INFO  time: indexed workspace in 0.85s
+2025.11.13 21:05:56 INFO  time: compiled ScalaDemo_c304e17189 in 1.32s
+2025.11.13 21:05:56 INFO  Deduplicating compilation of ScalaDemo_c304e17189 from bsp client 'scala-cli 1.9.1' (since 8h 24m 54.943s)
+2025.11.13 21:05:56 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:05:56 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:05:57 INFO  time: compiled ScalaDemo_c304e17189 in 0.64s
+2025.11.13 21:05:57 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:05:57 INFO  time: compiled ScalaDemo_c304e17189 in 0.39s
+2025.11.13 21:06:17 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:06:17 INFO  time: compiled ScalaDemo_c304e17189 in 0.22s
+2025.11.13 21:07:01 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:07:01 INFO  time: compiled ScalaDemo_c304e17189 in 0.17s
+2025.11.13 21:07:19 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:07:19 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 21:07:38 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:07:38 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 21:08:06 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:08:06 INFO  time: compiled ScalaDemo_c304e17189 in 0.14s
+2025.11.13 21:08:10 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:08:10 INFO  time: compiled ScalaDemo_c304e17189 in 0.17s
+2025.11.13 21:08:11 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:08:11 INFO  time: compiled ScalaDemo_c304e17189 in 0.14s
+2025.11.13 21:14:30 INFO  Skipping reload with status 'Installed'
+2025.11.13 21:15:15 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:15:15 INFO  time: compiled ScalaDemo_c304e17189 in 0.75s
+2025.11.13 21:15:19 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:15:19 INFO  time: compiled ScalaDemo_c304e17189 in 0.23s
+2025.11.13 21:20:00 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:20:00 INFO  time: compiled ScalaDemo_c304e17189 in 0.86s
+2025.11.13 21:20:13 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:20:13 INFO  time: compiled ScalaDemo_c304e17189 in 0.26s
+2025.11.13 21:20:17 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:20:17 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 21:20:21 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:20:21 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 21:20:30 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:20:30 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 21:20:35 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:20:35 INFO  time: compiled ScalaDemo_c304e17189 in 0.16s
+2025.11.13 21:20:48 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:20:48 INFO  time: compiled ScalaDemo_c304e17189 in 0.14s
+2025.11.13 21:20:51 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:20:51 INFO  time: compiled ScalaDemo_c304e17189 in 0.13s
+2025.11.13 21:20:55 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:20:55 INFO  time: compiled ScalaDemo_c304e17189 in 0.1s
+2025.11.13 21:21:11 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:21:11 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 21:21:16 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:21:16 INFO  time: compiled ScalaDemo_c304e17189 in 0.12s
+2025.11.13 21:21:20 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:21:20 INFO  time: compiled ScalaDemo_c304e17189 in 0.12s
+2025.11.13 21:21:23 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:21:23 INFO  time: compiled ScalaDemo_c304e17189 in 0.16s
+2025.11.13 21:21:26 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:21:26 INFO  time: compiled ScalaDemo_c304e17189 in 92ms
+2025.11.13 21:21:31 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:21:31 INFO  time: compiled ScalaDemo_c304e17189 in 0.12s
+2025.11.13 21:21:33 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:21:33 INFO  time: compiled ScalaDemo_c304e17189 in 0.12s
+2025.11.13 21:21:49 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:21:49 INFO  time: compiled ScalaDemo_c304e17189 in 0.12s
+2025.11.13 21:22:02 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:22:02 INFO  time: compiled ScalaDemo_c304e17189 in 0.12s
+2025.11.13 21:22:06 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:22:06 INFO  time: compiled ScalaDemo_c304e17189 in 0.12s
+2025.11.13 21:22:09 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:22:09 INFO  time: compiled ScalaDemo_c304e17189 in 86ms
+2025.11.13 21:22:17 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:22:17 INFO  time: compiled ScalaDemo_c304e17189 in 0.12s
+2025.11.13 21:22:29 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:22:29 INFO  time: compiled ScalaDemo_c304e17189 in 0.2s
+2025.11.13 21:22:42 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:22:42 INFO  time: compiled ScalaDemo_c304e17189 in 0.13s
+2025.11.13 21:22:44 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:22:44 INFO  time: compiled ScalaDemo_c304e17189 in 0.14s
+2025.11.13 21:23:08 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:23:08 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 21:23:12 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:23:12 INFO  time: compiled ScalaDemo_c304e17189 in 0.14s
+2025.11.13 21:23:13 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:23:13 INFO  time: compiled ScalaDemo_c304e17189 in 0.11s
+Nov 13, 2025 9:23:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15189
+2025.11.13 21:23:16 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:23:16 INFO  time: compiled ScalaDemo_c304e17189 in 0.12s
+2025.11.13 21:23:20 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:23:20 INFO  time: compiled ScalaDemo_c304e17189 in 0.13s
+2025.11.13 21:23:23 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:23:23 INFO  time: compiled ScalaDemo_c304e17189 in 0.13s
+2025.11.13 21:23:27 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:23:27 INFO  time: compiled ScalaDemo_c304e17189 in 0.14s
+2025.11.13 21:23:32 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:23:32 INFO  time: compiled ScalaDemo_c304e17189 in 0.13s
+2025.11.13 21:23:36 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:23:36 INFO  time: compiled ScalaDemo_c304e17189 in 0.1s
+Nov 13, 2025 9:23:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15408
+2025.11.13 21:23:41 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:23:41 INFO  time: compiled ScalaDemo_c304e17189 in 0.13s
+2025.11.13 21:23:50 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:23:50 INFO  time: compiled ScalaDemo_c304e17189 in 0.14s
+2025.11.13 21:23:55 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:23:55 INFO  time: compiled ScalaDemo_c304e17189 in 0.12s
+2025.11.13 21:24:02 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:24:02 INFO  time: compiled ScalaDemo_c304e17189 in 0.11s
+2025.11.13 21:24:13 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:24:13 INFO  time: compiled ScalaDemo_c304e17189 in 0.11s
+2025.11.13 21:24:20 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:24:20 INFO  time: compiled ScalaDemo_c304e17189 in 0.1s
+2025.11.13 21:24:31 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:24:31 INFO  time: compiled ScalaDemo_c304e17189 in 0.19s
+2025.11.13 21:31:42 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:31:42 INFO  time: compiled ScalaDemo_c304e17189 in 0.19s
+2025.11.13 21:32:11 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:32:11 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 21:32:16 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:32:16 INFO  time: compiled ScalaDemo_c304e17189 in 0.12s
+2025.11.13 21:32:18 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:32:18 INFO  time: compiled ScalaDemo_c304e17189 in 0.45s
+2025.11.13 21:32:49 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:32:49 INFO  time: compiled ScalaDemo_c304e17189 in 0.22s
+2025.11.13 21:33:13 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:33:13 INFO  time: compiled ScalaDemo_c304e17189 in 0.19s
+2025.11.13 21:35:59 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:35:59 INFO  time: compiled ScalaDemo_c304e17189 in 0.22s
+2025.11.13 21:36:01 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:36:01 INFO  time: compiled ScalaDemo_c304e17189 in 0.17s
+2025.11.13 21:36:03 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:36:03 INFO  time: compiled ScalaDemo_c304e17189 in 0.19s
+2025.11.13 21:36:08 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:36:08 INFO  time: compiled ScalaDemo_c304e17189 in 0.17s
+2025.11.13 21:36:10 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:36:10 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 21:36:42 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:36:42 INFO  time: compiled ScalaDemo_c304e17189 in 0.18s
+2025.11.13 21:36:43 INFO  Created report: Optional[file:///Users/racit/Documents/ScalaDemo/Day6/Question6/MySQLCon.scala]
+2025.11.13 21:36:43 INFO  empty definition using pc, found symbol in pc: prepareStatement. (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/metals-full/2025-11-13/r_empty-definition_(ScalaDemo_5fc304e17189)_21-36-43-203.md")
+Nov 13, 2025 9:40:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16139
+2025.11.13 21:40:12 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:40:12 INFO  time: compiled ScalaDemo_c304e17189 in 0.21s
+Nov 13, 2025 9:42:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: String index out of range: 7326
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: String index out of range: 7326
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:517)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+Caused by: java.lang.StringIndexOutOfBoundsException: String index out of range: 7326
+	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:48)
+	at java.base/java.lang.String.charAt(String.java:1519)
+	at scala.collection.StringOps$.apply$extension(StringOps.scala:188)
+	at scala.meta.internal.metals.codeactions.ExtractValueCodeAction.$anonfun$contribute$13(ExtractValueCodeAction.scala:61)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.codeactions.ExtractValueCodeAction.$anonfun$contribute$12(ExtractValueCodeAction.scala:58)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.ExtractValueCodeAction.$anonfun$contribute$9(ExtractValueCodeAction.scala:56)
+	at scala.Option$WithFilter.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.ExtractValueCodeAction.$anonfun$contribute$7(ExtractValueCodeAction.scala:53)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.ExtractValueCodeAction.$anonfun$contribute$6(ExtractValueCodeAction.scala:52)
+	at scala.collection.immutable.List.flatMap(List.scala:283)
+	at scala.meta.internal.metals.codeactions.ExtractValueCodeAction.$anonfun$contribute$1(ExtractValueCodeAction.scala:50)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:691)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:500)
+	... 3 more
+
+2025.11.13 21:42:20 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:42:20 INFO  time: compiled ScalaDemo_c304e17189 in 0.17s
+2025.11.13 21:42:22 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:42:22 INFO  time: compiled ScalaDemo_c304e17189 in 0.14s
+2025.11.13 21:42:35 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:42:35 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 21:42:37 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:42:37 INFO  time: compiled ScalaDemo_c304e17189 in 0.11s
+2025.11.13 21:42:44 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:42:44 INFO  time: compiled ScalaDemo_c304e17189 in 0.12s
+2025.11.13 21:42:47 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:42:47 INFO  time: compiled ScalaDemo_c304e17189 in 0.15s
+2025.11.13 21:42:55 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:42:55 INFO  time: compiled ScalaDemo_c304e17189 in 0.13s
+2025.11.13 21:42:57 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:42:57 INFO  time: compiled ScalaDemo_c304e17189 in 0.13s
+2025.11.13 21:44:54 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:44:54 INFO  time: compiled ScalaDemo_c304e17189 in 0.17s
+2025.11.13 21:44:55 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:44:55 INFO  time: compiled ScalaDemo_c304e17189 in 0.2s
+2025.11.13 21:44:56 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:44:56 INFO  time: compiled ScalaDemo_c304e17189 in 0.16s
+2025.11.13 21:45:29 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:45:29 INFO  time: compiled ScalaDemo_c304e17189 in 0.21s
+2025.11.13 21:45:44 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:45:44 INFO  time: compiled ScalaDemo_c304e17189 in 0.19s
+2025.11.13 21:46:00 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:46:00 INFO  time: compiled ScalaDemo_c304e17189 in 0.2s
+2025.11.13 21:46:06 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:46:06 INFO  time: compiled ScalaDemo_c304e17189 in 0.13s
+2025.11.13 21:46:07 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:46:07 INFO  time: compiled ScalaDemo_c304e17189 in 87ms
+2025.11.13 21:46:08 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:46:08 INFO  time: compiled ScalaDemo_c304e17189 in 0.1s
+2025.11.13 21:46:15 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:46:15 INFO  time: compiled ScalaDemo_c304e17189 in 0.13s
+2025.11.13 21:48:08 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:48:08 INFO  time: compiled ScalaDemo_c304e17189 in 0.18s
+2025.11.13 21:50:01 INFO  compiling scalademo_c304e17189 (13 scala sources)
+2025.11.13 21:50:01 INFO  time: compiled ScalaDemo_c304e17189 in 0.19s
+2025.11.13 21:56:29 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question7.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 21:56:29 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Day6/Question7.scala
+2025.11.13 21:56:29 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question7.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 21:56:29 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question7.scala
+2025.11.13 21:56:29 INFO  compiling scalademo_c304e17189 (14 scala sources)
+2025.11.13 21:56:29 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question7.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.13 21:56:29 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Day6/Question7.scala
+2025.11.13 21:56:30 INFO  time: compiled ScalaDemo_c304e17189 in 1.09s
+2025.11.13 21:56:30 INFO  time: Imported build in 1.4s
+2025.11.13 21:56:30 INFO  compiling scalademo_c304e17189 (14 scala sources)
+2025.11.13 21:56:31 INFO  time: compiled ScalaDemo_c304e17189 in 0.8s
+2025.11.13 21:56:30 INFO  time: indexed workspace in 0.91s
+2025.11.13 21:56:31 INFO  compiling scalademo_c304e17189 (14 scala sources)
+2025.11.13 21:56:31 INFO  time: compiled ScalaDemo_c304e17189 in 0.48s
+2025.11.13 21:56:32 INFO  compiling scalademo_c304e17189 (14 scala sources)
+2025.11.13 21:56:32 INFO  time: compiled ScalaDemo_c304e17189 in 0.38s
+2025.11.13 21:58:45 INFO  compiling scalademo_c304e17189 (14 scala sources)
+2025.11.13 21:58:45 INFO  time: compiled ScalaDemo_c304e17189 in 0.22s
