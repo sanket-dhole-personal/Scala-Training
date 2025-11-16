@@ -1,0 +1,11 @@
+
+Create Topic orders with 3 position and 2 replication Factor:-
+
+      racit@PTPLMRT06 ~ % kafka-topics.sh --bootstrap-server localhost:9092 --topic firsttopic --replication-factor 2 --partitions 3 --create
+      Created topic firsttopic.
+      racit@PTPLMRT06 ~ % kafka-topics.sh --bootstrap-server localhost:9092 --topic firsttopic --describe                                    
+      Topic: firsttopic	TopicId: pmPdAqrnQASfaOHJWXpFew	PartitionCount: 3	ReplicationFactor: 2	Configs: 
+	        Topic: firsttopic	Partition: 0	Leader: 2	Replicas: 2,0	Isr: 2,0
+	        Topic: firsttopic	Partition: 1	Leader: 1	Replicas: 1,2	Isr: 1,2
+	        Topic: firsttopic	Partition: 2	Leader: 0	Replicas: 0,1	Isr: 0,1
+      racit@PTPLMRT06 ~ %   
