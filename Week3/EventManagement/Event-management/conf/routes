@@ -1,0 +1,34 @@
+GET     /events             controllers.EventController.list
+GET     /events/:id         controllers.EventController.get(id: Int)
+POST    /events             controllers.EventController.create
+PUT     /events/:id         controllers.EventController.update(id: Int)
+DELETE  /events/:id         controllers.EventController.delete(id: Int)
+
+GET     /teams              controllers.TeamController.list
+GET     /teams/:id          controllers.TeamController.get(id: Int)
+POST    /teams              controllers.TeamController.create
+PUT     /teams/:id          controllers.TeamController.update(id: Int)
+DELETE  /teams/:id          controllers.TeamController.delete(id: Int)
+
+GET     /tasks              controllers.TaskController.list
+GET     /tasks/:id          controllers.TaskController.get(id: Int)
+POST    /tasks              controllers.TaskController.create
+PUT     /tasks/:id          controllers.TaskController.update(id: Int)
+DELETE  /tasks/:id          controllers.TaskController.delete(id: Int)
+PUT     /tasks/:id/status      controllers.TaskController.updateStatus(id: Int)
+
+
+GET     /issues             controllers.IssueController.list
+GET     /issues/:id         controllers.IssueController.get(id: Int)
+POST    /issues             controllers.IssueController.create
+PUT     /issues/:id         controllers.IssueController.update(id: Int)
+DELETE  /issues/:id         controllers.IssueController.delete(id: Int)
+
+GET     /notifications      controllers.NotificationController.list
+GET     /notifications/:id  controllers.NotificationController.get(id: Int)
+POST    /notifications      controllers.NotificationController.create
+DELETE  /notifications/:id  controllers.NotificationController.delete(id: Int)
+
+GET     /assets/*file     controllers.Assets.versioned(path="/public", file)
+## Authentication
+POST    /api/login                controllers.AuthController.login

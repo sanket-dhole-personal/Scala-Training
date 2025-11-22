@@ -8539,3 +8539,202 @@ java.nio.file.NoSuchFileException: /Users/racit/Documents/ScalaDemo/Day6/Questio
 2025.11.16 12:20:14 INFO  Deduplicating compilation of ScalaDemo_c304e17189 from bsp client 'scala-cli 1.9.1' (since 71h 39m 12.722s)
 2025.11.16 12:20:14 INFO  compiling scalademo_c304e17189 (21 scala sources)
 2025.11.16 12:20:14 INFO  time: compiled ScalaDemo_c304e17189 in 37ms
+2025.11.17 10:53:47 INFO  Shutting down server
+2025.11.17 10:53:47 INFO  shutting down Metals
+2025.11.17 10:53:47 INFO  Shut down connection with build server.
+2025.11.17 10:53:47 INFO  Exiting server
+2025.11.22 23:52:28 INFO  Started: Metals version 1.6.3 in folders '/Users/racit/Documents/ScalaDemo' for client Visual Studio Code 1.105.1.
+2025.11.22 23:52:30 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.22 23:52:30 INFO  Attempting to connect to the build server...
+2025.11.22 23:52:30 INFO  Running BSP server List(/Users/racit/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/racit/Documents/ScalaDemo/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/racit/Documents/ScalaDemo/.scala-build/ide-launcher-options.json, --envs-file, /Users/racit/Documents/ScalaDemo/.scala-build/ide-envs.json, /Users/racit/Documents/ScalaDemo)
+2025.11.22 23:52:31 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/racit/Documents/ScalaDemo/.metals/bsp.trace.json or /Users/racit/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.11.22 23:52:32 INFO  BSP server: Starting compilation server
+2025.11.22 23:52:33 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question4.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.22 23:52:35 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question4.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.22 23:52:35 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question4.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Nov 22, 2025 11:52:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Nov 22, 2025 11:52:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2025.11.22 23:52:35 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Day6/Question4.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.22 23:52:36 INFO  time: Connected to build server in 5.6s
+2025.11.22 23:52:36 INFO  Connected to Build server: scala-cli v1.9.1
+2025.11.22 23:52:36 INFO  time: Imported build in 0.18s
+2025.11.22 23:52:37 INFO  compiling scalademo_c304e17189 (21 scala sources)
+2025.11.22 23:52:39 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.22 23:52:39 INFO  time: indexed workspace in 3.04s
+2025.11.22 23:52:41 INFO  time: compiled ScalaDemo_c304e17189 in 3.92s
+2025.11.22 23:52:41 INFO  compiling scalademo_c304e17189 (21 scala sources)
+2025.11.22 23:52:41 INFO  time: compiled ScalaDemo_c304e17189 in 0.76s
+2025.11.22 23:52:41 INFO  compiling scalademo_c304e17189 (21 scala sources)
+2025.11.22 23:52:42 INFO  time: compiled ScalaDemo_c304e17189 in 0.75s
+2025.11.22 23:54:03 INFO  compiling scalademo_c304e17189 (43 scala sources)
+2025.11.22 23:54:03 INFO  Cancelling compilation on scala-cli server
+2025.11.22 23:54:04 INFO  time: indexed workspace in 1.43s
+2025.11.22 23:54:05 INFO  time: compiled ScalaDemo_c304e17189 in 2.86s
+2025.11.22 23:54:05 INFO  compiling scalademo_c304e17189 (49 scala sources and 1 java source)
+2025.11.22 23:54:08 INFO  time: compiled ScalaDemo_c304e17189 in 1.62s
+2025.11.22 23:54:08 INFO  compiling scalademo_c304e17189 (49 scala sources and 1 java source)
+2025.11.22 23:54:09 INFO  time: compiled ScalaDemo_c304e17189 in 0.96s
+2025.11.22 23:54:09 INFO  compiling scalademo_c304e17189 (49 scala sources and 1 java source)
+2025.11.22 23:54:09 INFO  time: compiled ScalaDemo_c304e17189 in 0.85s
+2025.11.22 23:54:10 INFO  time: Imported build in 5.72s
+2025.11.22 23:54:10 INFO  compiling scalademo_c304e17189 (49 scala sources and 1 java source)
+2025.11.22 23:54:10 INFO  time: compiled ScalaDemo_c304e17189 in 0.86s
+2025.11.22 23:54:10 INFO  compiling scalademo_c304e17189 (49 scala sources and 1 java source)
+2025.11.22 23:54:11 INFO  time: indexed workspace in 1.24s
+2025.11.22 23:54:11 INFO  Deduplicating compilation of ScalaDemo_c304e17189 from bsp client 'scala-cli 1.9.1' (since 1m 35.895s)
+2025.11.22 23:54:11 INFO  compiling scalademo_c304e17189 (49 scala sources and 1 java source)
+2025.11.22 23:54:11 INFO  time: compiled ScalaDemo_c304e17189 in 0.61s
+2025.11.22 23:55:32 INFO  compiling scalademo_c304e17189 (132 scala sources and 1 java source)
+2025.11.22 23:55:32 INFO  Cancelling compilation on scala-cli server
+2025.11.22 23:55:33 INFO  time: indexed workspace in 1.78s
+2025.11.22 23:55:36 WARN  there were 2 feature warnings; re-run with -feature for details
+2025.11.22 23:55:36 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/ScalaDemo/Week3/HotelApplication/scala-kafka-consumer-main/src/main/scala/service/RoomServiceActor.scala
+2025.11.22 23:55:36 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/ScalaDemo/Week3/HotelApplication/scala-kafka-consumer-main/src/main/scala/KafkaConsumerApp.scala
+2025.11.22 23:55:36 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/ScalaDemo/Week3/HotelApplication/scala-kafka-consumer-main/src/main/scala/service/EmailHelper.scala
+2025.11.22 23:55:36 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/ScalaDemo/Week3/HotelApplication/scala-kafka-consumer-main/src/main/scala/BookingJsonFormat.scala
+2025.11.22 23:55:36 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/ScalaDemo/Week3/HotelApplication/scala-kafka-consumer-main/src/main/scala/service/BookingCoordinatorActor.scala
+2025.11.22 23:55:36 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/ScalaDemo/Week3/HotelApplication/scala-kafka-consumer-main/src/main/scala/service/WifiServiceActor.scala
+2025.11.22 23:55:36 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/ScalaDemo/Week3/HotelApplication/scala-kafka-consumer-main/src/main/scala/service/RestaurantServiceActor.scala
+2025.11.22 23:55:36 INFO  time: compiled ScalaDemo_c304e17189 in 4.71s
+2025.11.22 23:55:36 INFO  compiling scalademo_c304e17189 (138 scala sources and 2 java sources)
+2025.11.22 23:55:39 INFO  exception occurred while checkingJava /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+
+  An unhandled exception was thrown in the compiler.
+  Please file a crash report here:
+  https://github.com/scala/scala3/issues/new/choose
+  For non-enriched exceptions, compile with -Xno-enrich-error-messages.
+
+
+     while compiling: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+        during phase: typer
+                mode: Mode(ImplicitsEnabled,ReadPositions)
+     library version: version 2.13.16
+    compiler version: version 3.7.3
+            settings: -Xsemanticdb true -bootclasspath /opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala3-library_3/3.7.3/scala3-library_3-3.7.3.jar:/opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar -classpath /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-mNCUNKMQQYiyD4_LmGgmUQ==:/Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-DGGpkLJ5R8eH4Z-AWXsYvg==:/Users/racit/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.jar -d /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-mNCUNKMQQYiyD4_LmGgmUQ== -sourceroot /Users/racit/Documents/ScalaDemo
+2025.11.22 23:55:39 INFO  time: compiled ScalaDemo_c304e17189 in 2.1s
+2025.11.22 23:55:39 INFO  Created report: Optional.empty
+2025.11.22 23:55:39 INFO  dotty.tools.dotc.ast.Trees$UnAssignedTypeException: type of TypeTree is not assigned
+	at dotty.tools... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_dotty.tools.dotc.ast..._23-55-39-796.md")
+2025.11.22 23:55:39 INFO  Created report: Optional.empty
+2025.11.22 23:55:39 INFO  Unexpected error when compiling ScalaDemo_c304e17189: dotty.tools.dotc.ast.Trees$UnAssignedTypeExcep... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_Unexpected error whe..._23-55-39-812.md")
+2025.11.22 23:55:39 INFO  compiling scalademo_c304e17189 (138 scala sources and 2 java sources)
+2025.11.22 23:55:41 INFO  exception occurred while checkingJava /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+
+  An unhandled exception was thrown in the compiler.
+  Please file a crash report here:
+  https://github.com/scala/scala3/issues/new/choose
+  For non-enriched exceptions, compile with -Xno-enrich-error-messages.
+
+
+     while compiling: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+        during phase: typer
+                mode: Mode(ImplicitsEnabled,ReadPositions)
+     library version: version 2.13.16
+    compiler version: version 3.7.3
+            settings: -Xsemanticdb true -bootclasspath /opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala3-library_3/3.7.3/scala3-library_3-3.7.3.jar:/opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar -classpath /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-lLXrmmHlTCmv27ISZgX__w==:/Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-DGGpkLJ5R8eH4Z-AWXsYvg==:/Users/racit/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.jar -d /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-lLXrmmHlTCmv27ISZgX__w== -sourceroot /Users/racit/Documents/ScalaDemo
+2025.11.22 23:55:41 INFO  time: compiled ScalaDemo_c304e17189 in 1.59s
+2025.11.22 23:55:41 INFO  dotty.tools.dotc.ast.Trees$UnAssignedTypeException: type of TypeTree is not assigned
+	at dotty.tools... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_dotty.tools.dotc.ast..._23-55-39-796.md")
+2025.11.22 23:55:41 INFO  Unexpected error when compiling ScalaDemo_c304e17189: dotty.tools.dotc.ast.Trees$UnAssignedTypeExcep... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_Unexpected error whe..._23-55-39-812.md")
+2025.11.22 23:55:41 INFO  time: Imported build in 7.93s
+2025.11.22 23:55:41 INFO  compiling scalademo_c304e17189 (138 scala sources and 2 java sources)
+2025.11.22 23:55:43 INFO  time: indexed workspace in 1.62s
+2025.11.22 23:55:43 INFO  Cancelling compilation on scala-cli server
+2025.11.22 23:55:43 INFO  exception occurred while checkingJava /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+
+  An unhandled exception was thrown in the compiler.
+  Please file a crash report here:
+  https://github.com/scala/scala3/issues/new/choose
+  For non-enriched exceptions, compile with -Xno-enrich-error-messages.
+
+
+     while compiling: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+        during phase: typer
+                mode: Mode(ImplicitsEnabled,ReadPositions)
+     library version: version 2.13.16
+    compiler version: version 3.7.3
+            settings: -Xsemanticdb true -bootclasspath /opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala3-library_3/3.7.3/scala3-library_3-3.7.3.jar:/opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar -classpath /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-NEeLaCw_RNWcijtp-UVjNg==:/Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-DGGpkLJ5R8eH4Z-AWXsYvg==:/Users/racit/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.jar -d /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-NEeLaCw_RNWcijtp-UVjNg== -sourceroot /Users/racit/Documents/ScalaDemo
+2025.11.22 23:55:43 INFO  time: compiled ScalaDemo_c304e17189 in 2.09s
+2025.11.22 23:55:43 INFO  dotty.tools.dotc.ast.Trees$UnAssignedTypeException: type of TypeTree is not assigned
+	at dotty.tools... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_dotty.tools.dotc.ast..._23-55-39-796.md")
+2025.11.22 23:55:43 INFO  Unexpected error when compiling ScalaDemo_c304e17189: dotty.tools.dotc.ast.Trees$UnAssignedTypeExcep... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_Unexpected error whe..._23-55-39-812.md")
+2025.11.22 23:55:43 INFO  compiling scalademo_c304e17189 (148 scala sources and 2 java sources)
+2025.11.22 23:55:46 INFO  exception occurred while checkingJava /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+
+  An unhandled exception was thrown in the compiler.
+  Please file a crash report here:
+  https://github.com/scala/scala3/issues/new/choose
+  For non-enriched exceptions, compile with -Xno-enrich-error-messages.
+
+
+     while compiling: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+        during phase: typer
+                mode: Mode(ImplicitsEnabled,ReadPositions)
+     library version: version 2.13.16
+    compiler version: version 3.7.3
+            settings: -Xsemanticdb true -bootclasspath /opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala3-library_3/3.7.3/scala3-library_3-3.7.3.jar:/opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar -classpath /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-lfJX4TnSRqCscT2_JGvVPg==:/Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-DGGpkLJ5R8eH4Z-AWXsYvg==:/Users/racit/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.jar -d /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-lfJX4TnSRqCscT2_JGvVPg== -sourceroot /Users/racit/Documents/ScalaDemo
+2025.11.22 23:55:46 INFO  time: compiled ScalaDemo_c304e17189 in 1.86s
+2025.11.22 23:55:46 INFO  dotty.tools.dotc.ast.Trees$UnAssignedTypeException: type of TypeTree is not assigned
+	at dotty.tools... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_dotty.tools.dotc.ast..._23-55-39-796.md")
+2025.11.22 23:55:46 INFO  Unexpected error when compiling ScalaDemo_c304e17189: dotty.tools.dotc.ast.Trees$UnAssignedTypeExcep... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_Unexpected error whe..._23-55-39-812.md")
+2025.11.22 23:55:46 INFO  time: Imported build in 2.63s
+2025.11.22 23:55:46 INFO  compiling scalademo_c304e17189 (148 scala sources and 2 java sources)
+2025.11.22 23:55:49 INFO  time: indexed workspace in 3.42s
+2025.11.22 23:55:51 INFO  exception occurred while checkingJava /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+
+  An unhandled exception was thrown in the compiler.
+  Please file a crash report here:
+  https://github.com/scala/scala3/issues/new/choose
+  For non-enriched exceptions, compile with -Xno-enrich-error-messages.
+
+
+     while compiling: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+        during phase: typer
+                mode: Mode(ImplicitsEnabled,ReadPositions)
+     library version: version 2.13.16
+    compiler version: version 3.7.3
+            settings: -Xsemanticdb true -bootclasspath /opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala3-library_3/3.7.3/scala3-library_3-3.7.3.jar:/opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar -classpath /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-lv-HSU6vRnuQqrsqUYidFA==:/Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-DGGpkLJ5R8eH4Z-AWXsYvg==:/Users/racit/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.jar -d /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-lv-HSU6vRnuQqrsqUYidFA== -sourceroot /Users/racit/Documents/ScalaDemo
+2025.11.22 23:55:51 INFO  time: compiled ScalaDemo_c304e17189 in 5.25s
+2025.11.22 23:55:51 INFO  dotty.tools.dotc.ast.Trees$UnAssignedTypeException: type of TypeTree is not assigned
+	at dotty.tools... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_dotty.tools.dotc.ast..._23-55-39-796.md")
+2025.11.22 23:55:51 INFO  Unexpected error when compiling ScalaDemo_c304e17189: dotty.tools.dotc.ast.Trees$UnAssignedTypeExcep... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_Unexpected error whe..._23-55-39-812.md")
+2025.11.22 23:55:51 INFO  Deduplicating compilation of ScalaDemo_c304e17189 from bsp client 'scala-cli 1.9.1' (since 3m 16.751s)
+2025.11.22 23:55:51 INFO  compiling scalademo_c304e17189 (148 scala sources and 2 java sources)
+2025.11.22 23:55:51 INFO  compiling scalademo_c304e17189 (148 scala sources and 2 java sources)
+2025.11.22 23:55:56 INFO  exception occurred while checkingJava /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+
+  An unhandled exception was thrown in the compiler.
+  Please file a crash report here:
+  https://github.com/scala/scala3/issues/new/choose
+  For non-enriched exceptions, compile with -Xno-enrich-error-messages.
+
+
+     while compiling: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+        during phase: typer
+                mode: Mode(ImplicitsEnabled,ReadPositions)
+     library version: version 2.13.16
+    compiler version: version 3.7.3
+            settings: -Xsemanticdb true -bootclasspath /opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala3-library_3/3.7.3/scala3-library_3-3.7.3.jar:/opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar -classpath /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-bvsZpN6sTh63vxVhv8OjrA==:/Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-DGGpkLJ5R8eH4Z-AWXsYvg==:/Users/racit/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.jar -d /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-bvsZpN6sTh63vxVhv8OjrA== -sourceroot /Users/racit/Documents/ScalaDemo
+2025.11.22 23:55:56 INFO  exception occurred while checkingJava /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+
+  An unhandled exception was thrown in the compiler.
+  Please file a crash report here:
+  https://github.com/scala/scala3/issues/new/choose
+  For non-enriched exceptions, compile with -Xno-enrich-error-messages.
+
+
+     while compiling: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+        during phase: typer
+                mode: Mode(ImplicitsEnabled,ReadPositions)
+     library version: version 2.13.16
+    compiler version: version 3.7.3
+            settings: -Xsemanticdb true -bootclasspath /opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala3-library_3/3.7.3/scala3-library_3-3.7.3.jar:/opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar -classpath /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-bvsZpN6sTh63vxVhv8OjrA==:/Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-DGGpkLJ5R8eH4Z-AWXsYvg==:/Users/racit/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.jar -d /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-bvsZpN6sTh63vxVhv8OjrA== -sourceroot /Users/racit/Documents/ScalaDemo
+2025.11.22 23:55:56 INFO  time: compiled ScalaDemo_c304e17189 in 3.71s
+2025.11.22 23:55:56 INFO  dotty.tools.dotc.ast.Trees$UnAssignedTypeException: type of TypeTree is not assigned
+	at dotty.tools... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_dotty.tools.dotc.ast..._23-55-39-796.md")
+2025.11.22 23:55:56 INFO  dotty.tools.dotc.ast.Trees$UnAssignedTypeException: type of TypeTree is not assigned
+	at dotty.tools... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_dotty.tools.dotc.ast..._23-55-39-796.md")
+2025.11.22 23:55:56 INFO  Unexpected error when compiling ScalaDemo_c304e17189: dotty.tools.dotc.ast.Trees$UnAssignedTypeExcep... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_Unexpected error whe..._23-55-39-812.md")
+2025.11.22 23:55:56 INFO  Unexpected error when compiling ScalaDemo_c304e17189: dotty.tools.dotc.ast.Trees$UnAssignedTypeExcep... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_Unexpected error whe..._23-55-39-812.md")

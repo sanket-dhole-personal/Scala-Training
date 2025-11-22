@@ -1,0 +1,15 @@
+[debug] > Exec(;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },(_root_.sbt.Global / SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile")) := _root_.scala.Some(_root_.sbt.file("/var/folders/nz/19_85b3j1sv2f2kjj7pnz1rh0000gp/T/sbt-structure15648122760862175360.xml")),(_root_.sbt.Global / SettingKey[_root_.java.lang.String]("sbtStructureOptions")) := "download, resolveSourceClassifiers, separateProdAndTestSources",(_root_.sbt.Global / SettingKey[_root_.scala.Boolean]("generateManagedSourcesDuringStructureDump")) := true);apply -cp "/Users/racit/Library/Application Support/JetBrains/IntelliJIdea2025.2/plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.3/2025.3.1/sbt-structure-extractor_2.12_1.3-2025.3.1.jar" "org.jetbrains.sbt.CreateTasks" "sbt.jetbrains.LogDownloadArtifacts";preferScala2;Global / dumpStructure, Some(8e123e67-2121-4d3e-91a8-146c8e7842cd), Some(CommandSource(console0)))
+[debug] > Exec(set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },(_root_.sbt.Global / SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile")) := _root_.scala.Some(_root_.sbt.file("/var/folders/nz/19_85b3j1sv2f2kjj7pnz1rh0000gp/T/sbt-structure15648122760862175360.xml")),(_root_.sbt.Global / SettingKey[_root_.java.lang.String]("sbtStructureOptions")) := "download, resolveSourceClassifiers, separateProdAndTestSources",(_root_.sbt.Global / SettingKey[_root_.scala.Boolean]("generateManagedSourcesDuringStructureDump")) := true), None, Some(CommandSource(console0)))
+[info] Defining Global / generateManagedSourcesDuringStructureDump, Global / sbtStructureOptions and 2 others.
+[info] The new values will be used by cleanKeepGlobs
+[info] 	Run `last` for details.
+[debug] Defining 
+[debug] 	Global / generateManagedSourcesDuringStructureDump
+[debug] 	Global / sbtStructureOptions
+[debug] 	Global / sbtStructureOutputFile
+[debug] 	history
+[debug] 	shellPrompt
+[debug] 
+[debug] The new values will be used by 
+[debug] 	cleanKeepGlobs
+[info] Reapplying settings...

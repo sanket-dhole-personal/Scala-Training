@@ -1,0 +1,14 @@
+1) Start Zookeeper
+bin/zookeeper-server-start.sh config/zookeeper.properties
+
+2)Start Kafka Server
+bin/kafka-server-start.sh config/server.properties
+
+3)Create Topic if not present
+bin/kafka-topics.sh --create --topic hotel_booking --bootstrap-server localhost:9092 --partitions 3 --replication-factor 1
+
+4)Create Producer
+kafka-console-producer.sh --bootstrap-server localhost:9092 --topic hotel_booking
+
+5)Create Consumer
+$KAFKA_PATH/bin/kafka-console-consumer.sh --topic hotel_booking --from-beginning --bootstrap-server localhost:9092 --property print.partition=true --property print.offset=true

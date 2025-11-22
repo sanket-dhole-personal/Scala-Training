@@ -1,0 +1,41 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# https://www.playframework.com/documentation/latest/ScalaRouting
+# ~~~~
+# An example controller showing a sample home page
+#GET     /                           controllers.HomeController.index()
+# Static assets
+GET   /assets/*file     controllers.Assets.versioned(path="/public", file)
+
+# Rooms Routes
+GET       /rooms                 controllers.RoomController.getAllRooms
+GET       /rooms/:id             controllers.RoomController.getRoom(id: Int)
+POST      /rooms                 controllers.RoomController.createRoom
+PUT       /rooms/:id             controllers.RoomController.updateRoom(id: Int)
+DELETE    /rooms/:id             controllers.RoomController.deleteRoom(id: Int)
+#
+## Guests Routes
+GET       /guests                controllers.GuestController.getAllGuests
+GET       /guests/:id            controllers.GuestController.getGuest(id: Int)
+POST      /guests                controllers.GuestController.createGuest
+PUT       /guests/:id            controllers.GuestController.updateGuest(id: Int)
+DELETE    /guests/:id            controllers.GuestController.deleteGuest(id: Int)
+#
+## Bookings Routes
+GET       /bookings              controllers.BookingController.getAllBookings
+GET       /bookings/:id          controllers.BookingController.getBooking(id: Int)
+POST      /bookings              controllers.BookingController.createBooking
+PUT       /bookings/:id          controllers.BookingController.updateBooking(id: Int)
+DELETE    /bookings/:id          controllers.BookingController.deleteBooking(id: Int)
+POST      /bookings/checkout/:id controllers.BookingController.checkout(id: Int)
+
+#
+## Notifications Routes
+GET       /notifications         controllers.NotificationController.getAllNotifications
+GET       /notifications/:id     controllers.NotificationController.getNotification(id: Int)
+POST      /notifications         controllers.NotificationController.createNotification
+PUT       /notifications/:id     controllers.NotificationController.updateNotification(id: Int)
+DELETE    /notifications/:id     controllers.NotificationController.deleteNotification(id: Int)
+
+## Authentication
+POST    /api/login                controllers.AuthController.login
