@@ -8771,3 +8771,61 @@ WARNING: Unmatched cancel notification for request id 3
 2025.11.25 17:03:43 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
 2025.11.25 17:03:43 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
 2025.11.25 17:03:45 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:14:02 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/Hotel-Management-kafka-consumer/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:14:02 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/Hotel-Management-kafka-consumer/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:14:02 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/Hotel-Management-kafka-consumer/build.sbt
+2025.11.25 19:14:02 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/Hotel-Management-kafka-consumer/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+Nov 25, 2025 7:14:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 54
+2025.11.25 19:14:02 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/Hotel-Management-kafka-consumer/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:14:02 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/Hotel-Management-kafka-consumer/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:14:10 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/Hotel-Management-kafka-consumer/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:14:10 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/Hotel-Management-kafka-consumer/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:14:10 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/Hotel-Management-kafka-consumer/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:14:10 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/Hotel-Management-kafka-consumer/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:14:10 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Week3/HotelApplication/Hotel-Management-kafka-consumer/build.sbt
+2025.11.25 19:14:10 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/Hotel-Management-kafka-consumer/build.sbt
+2025.11.25 19:14:10 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/Hotel-Management-kafka-consumer/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:14:10 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Week3/HotelApplication/Hotel-Management-kafka-consumer/build.sbt
+2025.11.25 19:14:11 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/Hotel-Management-kafka-consumer/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:14:13 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/Hotel-Management-kafka-consumer/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:14:13 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/Hotel-Management-kafka-consumer/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:14:13 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/Hotel-Management-kafka-consumer/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:14:13 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/Hotel-Management-kafka-consumer/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:14:14 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/Hotel-Management-kafka-consumer/build.sbt
+2025.11.25 19:14:14 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/Hotel-Management-kafka-consumer/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:18:32 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:18:32 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:18:32 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt
+2025.11.25 19:18:32 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:18:32 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:18:32 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:18:32 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:18:33 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:18:33 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:18:34 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:18:34 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:18:34 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:18:35 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:18:35 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:18:35 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:18:36 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:18:36 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:20:44 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:20:44 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/Hotel-Management-kafka-consumer/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:20:46 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:20:46 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:20:46 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/build.sbt
+2025.11.25 19:20:46 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:20:46 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:20:46 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:20:47 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:20:48 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:20:48 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:20:48 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:20:49 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:20:49 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:20:49 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:20:49 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:20:51 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:20:51 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3

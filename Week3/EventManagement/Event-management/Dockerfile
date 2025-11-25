@@ -22,10 +22,10 @@ WORKDIR /app
 # Copy staged app
 COPY --from=build /app/target/universal/stage /app
 
-EXPOSE 9001
+EXPOSE 9002
 
 ENV PLAY_HTTP_SECRET=thisisasecretfortheapplicationandwekeepittosecuretheapplicationletuscheckandithastowork
 ENV JAVA_OPTS="-Xms512M -Xmx1024M"
 
 # Correct executable script name
-CMD ["sh", "-c", "./bin/hotel-management -Dplay.http.secret.key=${PLAY_HTTP_SECRET} ${JAVA_OPTS}"]
+CMD ["sh", "-c", "./bin/event-management -Dplay.http.secret.key=${PLAY_HTTP_SECRET} ${JAVA_OPTS}"]
