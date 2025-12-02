@@ -8829,3 +8829,461 @@ WARNING: Unmatched cancel notification for request id 54
 2025.11.25 19:20:49 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
 2025.11.25 19:20:51 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
 2025.11.25 19:20:51 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:38:58 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:38:58 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:38:58 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt
+2025.11.25 19:38:58 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:38:58 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt
+2025.11.25 19:38:58 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:38:58 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:38:58 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:38:58 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt
+2025.11.25 19:39:00 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:00 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:01 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:44 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:44 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:44 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:45 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:45 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:45 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt
+2025.11.25 19:39:45 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt
+2025.11.25 19:39:45 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:45 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt
+2025.11.25 19:39:49 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:50 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:50 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:51 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:51 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:51 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt
+2025.11.25 19:39:51 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt
+2025.11.25 19:39:51 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:51 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt
+2025.11.25 19:39:53 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:53 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:54 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:54 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:54 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:55 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:55 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:55 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt
+2025.11.25 19:39:55 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt
+2025.11.25 19:39:56 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:56 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt
+2025.11.25 19:39:56 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:56 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:56 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:58 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:58 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:58 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:58 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:58 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt
+2025.11.25 19:39:58 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:58 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:59 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:58 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:58 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt
+2025.11.25 19:39:59 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt
+2025.11.25 19:39:59 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:39:59 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/project/plugins.sbt
+2025.11.25 19:40:04 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:40:04 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:40:04 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt
+2025.11.25 19:40:04 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:40:04 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:40:04 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:40:04 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:40:05 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:40:06 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:40:06 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:40:08 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:40:08 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:40:09 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:40:09 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:40:09 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:40:09 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:40:09 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:40:09 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:40:09 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:40:10 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:40:10 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt
+2025.11.25 19:40:10 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:40:12 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:41:00 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:41:01 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:41:01 INFO  compiling scalademo_c304e17189 (142 scala sources and 1 java source)
+2025.11.25 19:41:02 INFO  time: indexed workspace in 1.6s
+2025.11.25 19:41:03 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:41:06 WARN  there were 2 feature warnings; re-run with -feature for details
+2025.11.25 19:41:06 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/twirl/main/views/html/index.template.scala
+2025.11.25 19:41:06 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/ReverseRoutes.scala
+2025.11.25 19:41:06 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/router/Routes.scala
+2025.11.25 19:41:06 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala
+2025.11.25 19:41:06 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/router/RoutesPrefix.scala
+2025.11.25 19:41:06 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/twirl/main/views/html/main.template.scala
+2025.11.25 19:41:06 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+2025.11.25 19:41:06 INFO  time: compiled ScalaDemo_c304e17189 in 4.63s
+2025.11.25 19:41:06 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt
+2025.11.25 19:41:06 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:41:06 INFO  compiling scalademo_c304e17189 (142 scala sources and 1 java source)
+2025.11.25 19:41:08 WARN  there were 2 feature warnings; re-run with -feature for details
+2025.11.25 19:41:08 INFO  time: compiled ScalaDemo_c304e17189 in 1.89s
+2025.11.25 19:41:45 INFO  compiling scalademo_c304e17189 (148 scala sources and 2 java sources)
+2025.11.25 19:41:46 INFO  time: indexed workspace in 1.5s
+2025.11.25 19:41:47 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:41:48 INFO  exception occurred while checkingJava /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+
+  An unhandled exception was thrown in the compiler.
+  Please file a crash report here:
+  https://github.com/scala/scala3/issues/new/choose
+  For non-enriched exceptions, compile with -Xno-enrich-error-messages.
+
+
+     while compiling: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+        during phase: typer
+                mode: Mode(ImplicitsEnabled,ReadPositions)
+     library version: version 2.13.16
+    compiler version: version 3.7.3
+            settings: -Xsemanticdb true -bootclasspath /opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala3-library_3/3.7.3/scala3-library_3-3.7.3.jar:/opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar -classpath /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-oWIyU-GERpqhNn8gFzmIFg==:/Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-DGGpkLJ5R8eH4Z-AWXsYvg==:/Users/racit/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.jar -d /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-oWIyU-GERpqhNn8gFzmIFg== -sourceroot /Users/racit/Documents/ScalaDemo
+2025.11.25 19:41:48 INFO  time: compiled ScalaDemo_c304e17189 in 2.67s
+2025.11.25 19:41:48 INFO  dotty.tools.dotc.ast.Trees$UnAssignedTypeException: type of TypeTree is not assigned
+	at dotty.tools... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_dotty.tools.dotc.ast..._23-55-39-796.md")
+2025.11.25 19:41:48 INFO  Unexpected error when compiling ScalaDemo_c304e17189: dotty.tools.dotc.ast.Trees$UnAssignedTypeExcep... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_Unexpected error whe..._23-55-39-812.md")
+2025.11.25 19:41:48 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt
+2025.11.25 19:41:48 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:41:48 INFO  compiling scalademo_c304e17189 (148 scala sources and 2 java sources)
+2025.11.25 19:41:50 INFO  exception occurred while checkingJava /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+
+  An unhandled exception was thrown in the compiler.
+  Please file a crash report here:
+  https://github.com/scala/scala3/issues/new/choose
+  For non-enriched exceptions, compile with -Xno-enrich-error-messages.
+
+
+     while compiling: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+        during phase: typer
+                mode: Mode(ImplicitsEnabled,ReadPositions)
+     library version: version 2.13.16
+    compiler version: version 3.7.3
+            settings: -Xsemanticdb true -bootclasspath /opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala3-library_3/3.7.3/scala3-library_3-3.7.3.jar:/opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar -classpath /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-_h8GUZncRxuDyKYbAwLb8w==:/Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-DGGpkLJ5R8eH4Z-AWXsYvg==:/Users/racit/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.jar -d /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-_h8GUZncRxuDyKYbAwLb8w== -sourceroot /Users/racit/Documents/ScalaDemo
+2025.11.25 19:41:50 INFO  time: compiled ScalaDemo_c304e17189 in 1.95s
+2025.11.25 19:41:50 INFO  dotty.tools.dotc.ast.Trees$UnAssignedTypeException: type of TypeTree is not assigned
+	at dotty.tools... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_dotty.tools.dotc.ast..._23-55-39-796.md")
+2025.11.25 19:41:50 INFO  Unexpected error when compiling ScalaDemo_c304e17189: dotty.tools.dotc.ast.Trees$UnAssignedTypeExcep... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_Unexpected error whe..._23-55-39-812.md")
+2025.11.25 19:42:52 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:42:52 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:42:52 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt
+2025.11.25 19:42:52 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:42:52 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt
+2025.11.25 19:42:52 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:42:52 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:42:52 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt
+2025.11.25 19:42:53 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:42:53 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:42:53 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:42:54 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:42:55 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:42:55 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:42:55 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:42:55 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:42:55 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt
+2025.11.25 19:42:56 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt
+2025.11.25 19:42:56 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:42:56 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt
+2025.11.25 19:43:27 INFO  Cancelling compilation on scala-cli server
+2025.11.25 19:43:27 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:43:27 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt
+2025.11.25 19:43:27 INFO  compiling scalademo_c304e17189 (142 scala sources and 1 java source)
+2025.11.25 19:43:27 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:43:27 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt
+2025.11.25 19:43:29 WARN  there were 2 feature warnings; re-run with -feature for details
+2025.11.25 19:43:29 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/target/scala-2.13/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala
+2025.11.25 19:43:29 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/target/scala-2.13/routes/main/router/Routes.scala
+2025.11.25 19:43:29 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/target/scala-2.13/twirl/main/views/html/main.template.scala
+2025.11.25 19:43:29 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/target/scala-2.13/twirl/main/views/html/index.template.scala
+2025.11.25 19:43:29 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/target/scala-2.13/routes/main/controllers/ReverseRoutes.scala
+2025.11.25 19:43:29 INFO  time: compiled ScalaDemo_c304e17189 in 1.87s
+2025.11.25 19:43:29 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt
+2025.11.25 19:43:29 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:43:29 INFO  time: Imported build in 2.29s
+2025.11.25 19:43:29 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt
+2025.11.25 19:43:29 INFO  compiling scalademo_c304e17189 (142 scala sources and 1 java source)
+2025.11.25 19:43:30 INFO  time: indexed workspace in 1.2s
+2025.11.25 19:43:30 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt
+2025.11.25 19:43:30 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:43:30 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt
+2025.11.25 19:43:30 WARN  there were 2 feature warnings; re-run with -feature for details
+2025.11.25 19:43:30 INFO  time: compiled ScalaDemo_c304e17189 in 1.31s
+2025.11.25 19:43:30 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:43:43 INFO  compiling scalademo_c304e17189 (148 scala sources and 2 java sources)
+2025.11.25 19:43:45 INFO  time: indexed workspace in 1.5s
+2025.11.25 19:43:46 INFO  exception occurred while checkingJava /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+
+  An unhandled exception was thrown in the compiler.
+  Please file a crash report here:
+  https://github.com/scala/scala3/issues/new/choose
+  For non-enriched exceptions, compile with -Xno-enrich-error-messages.
+
+
+     while compiling: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+        during phase: typer
+                mode: Mode(ImplicitsEnabled,ReadPositions)
+     library version: version 2.13.16
+    compiler version: version 3.7.3
+            settings: -Xsemanticdb true -bootclasspath /opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala3-library_3/3.7.3/scala3-library_3-3.7.3.jar:/opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar -classpath /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-wakXjQ_NTfqodJeapr5wvA==:/Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-DGGpkLJ5R8eH4Z-AWXsYvg==:/Users/racit/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.jar -d /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-wakXjQ_NTfqodJeapr5wvA== -sourceroot /Users/racit/Documents/ScalaDemo
+2025.11.25 19:43:46 INFO  time: compiled ScalaDemo_c304e17189 in 2.31s
+2025.11.25 19:43:46 INFO  dotty.tools.dotc.ast.Trees$UnAssignedTypeException: type of TypeTree is not assigned
+	at dotty.tools... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_dotty.tools.dotc.ast..._23-55-39-796.md")
+2025.11.25 19:43:46 INFO  Unexpected error when compiling ScalaDemo_c304e17189: dotty.tools.dotc.ast.Trees$UnAssignedTypeExcep... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_Unexpected error whe..._23-55-39-812.md")
+2025.11.25 19:43:46 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:43:46 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt
+2025.11.25 19:43:46 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:43:46 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt
+2025.11.25 19:43:46 INFO  compiling scalademo_c304e17189 (148 scala sources and 2 java sources)
+2025.11.25 19:43:48 INFO  exception occurred while checkingJava /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+
+  An unhandled exception was thrown in the compiler.
+  Please file a crash report here:
+  https://github.com/scala/scala3/issues/new/choose
+  For non-enriched exceptions, compile with -Xno-enrich-error-messages.
+
+
+     while compiling: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+        during phase: typer
+                mode: Mode(ImplicitsEnabled,ReadPositions)
+     library version: version 2.13.16
+    compiler version: version 3.7.3
+            settings: -Xsemanticdb true -bootclasspath /opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala3-library_3/3.7.3/scala3-library_3-3.7.3.jar:/opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar -classpath /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-RsdOFzlqS2qyqHoSt6pV-g==:/Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-DGGpkLJ5R8eH4Z-AWXsYvg==:/Users/racit/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.jar -d /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-RsdOFzlqS2qyqHoSt6pV-g== -sourceroot /Users/racit/Documents/ScalaDemo
+2025.11.25 19:43:48 INFO  time: compiled ScalaDemo_c304e17189 in 1.93s
+2025.11.25 19:43:48 INFO  dotty.tools.dotc.ast.Trees$UnAssignedTypeException: type of TypeTree is not assigned
+	at dotty.tools... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_dotty.tools.dotc.ast..._23-55-39-796.md")
+2025.11.25 19:43:48 INFO  Unexpected error when compiling ScalaDemo_c304e17189: dotty.tools.dotc.ast.Trees$UnAssignedTypeExcep... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_Unexpected error whe..._23-55-39-812.md")
+2025.11.25 19:44:54 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:44:54 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt
+2025.11.25 19:44:54 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:44:54 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.25 19:44:54 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt
+2025.11.25 19:44:54 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/EventManagement/Event-management/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.26 10:54:07 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.26 10:54:07 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt
+2025.11.26 10:54:07 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.26 10:54:07 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.26 10:54:07 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.26 10:54:07 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.26 10:54:07 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.26 11:18:10 INFO  compiling scalademo_c304e17189 (148 scala sources and 2 java sources)
+2025.11.26 11:18:11 INFO  exception occurred while checkingJava /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+
+  An unhandled exception was thrown in the compiler.
+  Please file a crash report here:
+  https://github.com/scala/scala3/issues/new/choose
+  For non-enriched exceptions, compile with -Xno-enrich-error-messages.
+
+
+     while compiling: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+        during phase: typer
+                mode: Mode(ImplicitsEnabled,ReadPositions)
+     library version: version 2.13.16
+    compiler version: version 3.7.3
+            settings: -Xsemanticdb true -bootclasspath /opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala3-library_3/3.7.3/scala3-library_3-3.7.3.jar:/opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar -classpath /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-tqUazwX3RhC9j9Czg-qVbw==:/Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-DGGpkLJ5R8eH4Z-AWXsYvg==:/Users/racit/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.jar -d /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-tqUazwX3RhC9j9Czg-qVbw== -sourceroot /Users/racit/Documents/ScalaDemo
+2025.11.26 11:18:11 INFO  time: compiled ScalaDemo_c304e17189 in 1.52s
+2025.11.26 11:18:11 INFO  dotty.tools.dotc.ast.Trees$UnAssignedTypeException: type of TypeTree is not assigned
+	at dotty.tools... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_dotty.tools.dotc.ast..._23-55-39-796.md")
+2025.11.26 11:18:11 INFO  Unexpected error when compiling ScalaDemo_c304e17189: dotty.tools.dotc.ast.Trees$UnAssignedTypeExcep... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_Unexpected error whe..._23-55-39-812.md")
+2025.11.26 11:19:25 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.26 11:19:25 WARN  no build target for: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt
+2025.11.26 11:19:25 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.26 11:19:25 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.26 11:19:26 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.26 11:19:31 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.28 12:20:14 INFO  Shutting down server
+2025.11.28 12:20:14 INFO  shutting down Metals
+2025.11.28 12:20:14 INFO  Shut down connection with build server.
+2025.11.28 12:20:14 INFO  Exiting server
+2025.11.28 12:26:30 INFO  Started: Metals version 1.6.4 in folders '/Users/racit/Documents/ScalaDemo' for client Visual Studio Code 1.105.1.
+2025.11.28 12:26:30 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.28 12:26:31 INFO  no build target found for /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/app/security/JwtAuthFilter.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.28 12:26:32 INFO  Attempting to connect to the build server...
+2025.11.28 12:26:32 INFO  Running BSP server List(/Users/racit/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/racit/Documents/ScalaDemo/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/racit/Documents/ScalaDemo/.scala-build/ide-launcher-options.json, --envs-file, /Users/racit/Documents/ScalaDemo/.scala-build/ide-envs.json, /Users/racit/Documents/ScalaDemo)
+2025.11.28 12:26:33 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/racit/Documents/ScalaDemo/.metals/bsp.trace.json or /Users/racit/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.11.28 12:26:38 INFO  BSP server: Starting compilation server
+2025.11.28 12:26:41 INFO  time: Connected to build server in 9.45s
+2025.11.28 12:26:41 INFO  Connected to Build server: scala-cli v1.9.1
+2025.11.28 12:26:41 INFO  time: Imported build in 0.13s
+2025.11.28 12:26:43 INFO  compiling scalademo_c304e17189 (148 scala sources and 2 java sources)
+2025.11.28 12:26:46 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.28 12:26:46 INFO  time: indexed workspace in 4.45s
+2025.11.28 12:26:52 INFO  exception occurred while checkingJava /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+
+  An unhandled exception was thrown in the compiler.
+  Please file a crash report here:
+  https://github.com/scala/scala3/issues/new/choose
+  For non-enriched exceptions, compile with -Xno-enrich-error-messages.
+
+
+     while compiling: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+        during phase: typer
+                mode: Mode(ImplicitsEnabled,ReadPositions)
+     library version: version 2.13.16
+    compiler version: version 3.7.3
+            settings: -Xsemanticdb true -bootclasspath /opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala3-library_3/3.7.3/scala3-library_3-3.7.3.jar:/opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar -classpath /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-nnfe3vmJQAua2H5QVRts0A==:/Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-DGGpkLJ5R8eH4Z-AWXsYvg==:/Users/racit/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.jar -d /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-nnfe3vmJQAua2H5QVRts0A== -sourceroot /Users/racit/Documents/ScalaDemo
+2025.11.28 12:26:52 INFO  time: compiled ScalaDemo_c304e17189 in 9.33s
+2025.11.28 12:26:52 INFO  dotty.tools.dotc.ast.Trees$UnAssignedTypeException: type of TypeTree is not assigned
+	at dotty.tools... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_dotty.tools.dotc.ast..._23-55-39-796.md")
+2025.11.28 12:26:52 INFO  Unexpected error when compiling ScalaDemo_c304e17189: dotty.tools.dotc.ast.Trees$UnAssignedTypeExcep... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_Unexpected error whe..._23-55-39-812.md")
+2025.11.28 12:26:53 INFO  compiling scalademo_c304e17189 (148 scala sources and 2 java sources)
+2025.11.28 12:26:57 INFO  exception occurred while checkingJava /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+
+  An unhandled exception was thrown in the compiler.
+  Please file a crash report here:
+  https://github.com/scala/scala3/issues/new/choose
+  For non-enriched exceptions, compile with -Xno-enrich-error-messages.
+
+
+     while compiling: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+        during phase: typer
+                mode: Mode(ImplicitsEnabled,ReadPositions)
+     library version: version 2.13.16
+    compiler version: version 3.7.3
+            settings: -Xsemanticdb true -bootclasspath /opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala3-library_3/3.7.3/scala3-library_3-3.7.3.jar:/opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar -classpath /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-7yRwg5F7SMeEB4mUF4ix-Q==:/Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-DGGpkLJ5R8eH4Z-AWXsYvg==:/Users/racit/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.jar -d /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-7yRwg5F7SMeEB4mUF4ix-Q== -sourceroot /Users/racit/Documents/ScalaDemo
+2025.11.28 12:26:57 INFO  time: compiled ScalaDemo_c304e17189 in 4.55s
+2025.11.28 12:26:57 INFO  dotty.tools.dotc.ast.Trees$UnAssignedTypeException: type of TypeTree is not assigned
+	at dotty.tools... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_dotty.tools.dotc.ast..._23-55-39-796.md")
+2025.11.28 12:26:57 INFO  Unexpected error when compiling ScalaDemo_c304e17189: dotty.tools.dotc.ast.Trees$UnAssignedTypeExcep... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_Unexpected error whe..._23-55-39-812.md")
+2025.11.28 12:26:59 INFO  compiling scalademo_c304e17189 (148 scala sources and 2 java sources)
+2025.11.28 12:27:02 INFO  exception occurred while checkingJava /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+
+  An unhandled exception was thrown in the compiler.
+  Please file a crash report here:
+  https://github.com/scala/scala3/issues/new/choose
+  For non-enriched exceptions, compile with -Xno-enrich-error-messages.
+
+
+     while compiling: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+        during phase: typer
+                mode: Mode(ImplicitsEnabled,ReadPositions)
+     library version: version 2.13.16
+    compiler version: version 3.7.3
+            settings: -Xsemanticdb true -bootclasspath /opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala3-library_3/3.7.3/scala3-library_3-3.7.3.jar:/opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar -classpath /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-xavBo5-sRtm3jdYpcl4-pg==:/Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-DGGpkLJ5R8eH4Z-AWXsYvg==:/Users/racit/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.jar -d /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-xavBo5-sRtm3jdYpcl4-pg== -sourceroot /Users/racit/Documents/ScalaDemo
+2025.11.28 12:27:02 INFO  time: compiled ScalaDemo_c304e17189 in 3.82s
+2025.11.28 12:27:02 INFO  dotty.tools.dotc.ast.Trees$UnAssignedTypeException: type of TypeTree is not assigned
+	at dotty.tools... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_dotty.tools.dotc.ast..._23-55-39-796.md")
+2025.11.28 12:27:02 INFO  Unexpected error when compiling ScalaDemo_c304e17189: dotty.tools.dotc.ast.Trees$UnAssignedTypeExcep... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_Unexpected error whe..._23-55-39-812.md")
+2025.12.01 22:52:25 INFO  compiling scalademo_c304e17189 (160 scala sources and 2 java sources)
+2025.12.01 22:52:30 INFO  exception occurred while checkingJava /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+
+  An unhandled exception was thrown in the compiler.
+  Please file a crash report here:
+  https://github.com/scala/scala3/issues/new/choose
+  For non-enriched exceptions, compile with -Xno-enrich-error-messages.
+
+
+     while compiling: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+        during phase: typer
+                mode: Mode(ImplicitsEnabled,ReadPositions)
+     library version: version 2.13.16
+    compiler version: version 3.7.3
+            settings: -Xsemanticdb true -bootclasspath /opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala3-library_3/3.7.3/scala3-library_3-3.7.3.jar:/opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar -classpath /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-eD1kf9tFQRqg2idgmA9ULA==:/Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-DGGpkLJ5R8eH4Z-AWXsYvg==:/Users/racit/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.jar -d /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-eD1kf9tFQRqg2idgmA9ULA== -sourceroot /Users/racit/Documents/ScalaDemo
+2025.12.01 22:52:30 INFO  time: compiled ScalaDemo_c304e17189 in 4.45s
+2025.12.01 22:52:30 INFO  dotty.tools.dotc.ast.Trees$UnAssignedTypeException: type of TypeTree is not assigned
+	at dotty.tools... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_dotty.tools.dotc.ast..._23-55-39-796.md")
+2025.12.01 22:52:30 INFO  Unexpected error when compiling ScalaDemo_c304e17189: dotty.tools.dotc.ast.Trees$UnAssignedTypeExcep... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_Unexpected error whe..._23-55-39-812.md")
+2025.12.01 22:52:31 INFO  time: Imported build in 5.5s
+2025.12.01 22:52:31 INFO  compiling scalademo_c304e17189 (160 scala sources and 2 java sources)
+2025.12.01 22:52:33 INFO  time: indexed workspace in 2.06s
+2025.12.01 22:52:33 INFO  Deduplicating compilation of ScalaDemo_c304e17189 from bsp client 'scala-cli 1.9.1' (since 82h 25m 53.109s)
+2025.12.01 22:52:33 INFO  compiling scalademo_c304e17189 (160 scala sources and 2 java sources)
+2025.12.01 22:52:34 INFO  exception occurred while checkingJava /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+
+  An unhandled exception was thrown in the compiler.
+  Please file a crash report here:
+  https://github.com/scala/scala3/issues/new/choose
+  For non-enriched exceptions, compile with -Xno-enrich-error-messages.
+
+
+     while compiling: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+        during phase: typer
+                mode: Mode(ImplicitsEnabled,ReadPositions)
+     library version: version 2.13.16
+    compiler version: version 3.7.3
+            settings: -Xsemanticdb true -bootclasspath /opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala3-library_3/3.7.3/scala3-library_3-3.7.3.jar:/opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar -classpath /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-JUqyHoEOQVGyq_KdbnGMAQ==:/Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-DGGpkLJ5R8eH4Z-AWXsYvg==:/Users/racit/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.jar -d /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-JUqyHoEOQVGyq_KdbnGMAQ== -sourceroot /Users/racit/Documents/ScalaDemo
+2025.12.01 22:52:34 INFO  exception occurred while checkingJava /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+
+  An unhandled exception was thrown in the compiler.
+  Please file a crash report here:
+  https://github.com/scala/scala3/issues/new/choose
+  For non-enriched exceptions, compile with -Xno-enrich-error-messages.
+
+
+     while compiling: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+        during phase: typer
+                mode: Mode(ImplicitsEnabled,ReadPositions)
+     library version: version 2.13.16
+    compiler version: version 3.7.3
+            settings: -Xsemanticdb true -bootclasspath /opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala3-library_3/3.7.3/scala3-library_3-3.7.3.jar:/opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar -classpath /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-JUqyHoEOQVGyq_KdbnGMAQ==:/Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-DGGpkLJ5R8eH4Z-AWXsYvg==:/Users/racit/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.jar -d /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-JUqyHoEOQVGyq_KdbnGMAQ== -sourceroot /Users/racit/Documents/ScalaDemo
+2025.12.01 22:52:34 INFO  time: compiled ScalaDemo_c304e17189 in 1.45s
+2025.12.01 22:52:34 INFO  dotty.tools.dotc.ast.Trees$UnAssignedTypeException: type of TypeTree is not assigned
+	at dotty.tools... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_dotty.tools.dotc.ast..._23-55-39-796.md")
+2025.12.01 22:52:34 INFO  Unexpected error when compiling ScalaDemo_c304e17189: dotty.tools.dotc.ast.Trees$UnAssignedTypeExcep... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_Unexpected error whe..._23-55-39-812.md")
+2025.12.01 22:52:34 INFO  dotty.tools.dotc.ast.Trees$UnAssignedTypeException: type of TypeTree is not assigned
+	at dotty.tools... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_dotty.tools.dotc.ast..._23-55-39-796.md")
+2025.12.01 22:52:34 INFO  Unexpected error when compiling ScalaDemo_c304e17189: dotty.tools.dotc.ast.Trees$UnAssignedTypeExcep... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_Unexpected error whe..._23-55-39-812.md")
+2025.12.02 18:57:32 INFO  compiling scalademo_c304e17189 (170 scala sources and 2 java sources)
+2025.12.02 18:57:38 INFO  exception occurred while checkingJava /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+
+  An unhandled exception was thrown in the compiler.
+  Please file a crash report here:
+  https://github.com/scala/scala3/issues/new/choose
+  For non-enriched exceptions, compile with -Xno-enrich-error-messages.
+
+
+     while compiling: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+        during phase: typer
+                mode: Mode(ImplicitsEnabled,ReadPositions)
+     library version: version 2.13.16
+    compiler version: version 3.7.3
+            settings: -Xsemanticdb true -bootclasspath /opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala3-library_3/3.7.3/scala3-library_3-3.7.3.jar:/opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar -classpath /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-GcPwBYW8QG2wgotfTzh_SQ==:/Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-DGGpkLJ5R8eH4Z-AWXsYvg==:/Users/racit/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.jar -d /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-GcPwBYW8QG2wgotfTzh_SQ== -sourceroot /Users/racit/Documents/ScalaDemo
+2025.12.02 18:57:38 INFO  time: compiled ScalaDemo_c304e17189 in 5.52s
+2025.12.02 18:57:38 INFO  dotty.tools.dotc.ast.Trees$UnAssignedTypeException: type of TypeTree is not assigned
+	at dotty.tools... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_dotty.tools.dotc.ast..._23-55-39-796.md")
+2025.12.02 18:57:38 INFO  Unexpected error when compiling ScalaDemo_c304e17189: dotty.tools.dotc.ast.Trees$UnAssignedTypeExcep... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_Unexpected error whe..._23-55-39-812.md")
+2025.12.02 18:57:38 INFO  time: Imported build in 6.17s
+2025.12.02 18:57:38 INFO  compiling scalademo_c304e17189 (170 scala sources and 2 java sources)
+2025.12.02 18:57:40 INFO  time: indexed workspace in 1.65s
+2025.12.02 18:57:40 INFO  Deduplicating compilation of ScalaDemo_c304e17189 from bsp client 'scala-cli 1.9.1' (since 102h 31m 0.268s)
+2025.12.02 18:57:40 INFO  compiling scalademo_c304e17189 (170 scala sources and 2 java sources)
+2025.12.02 18:57:41 INFO  exception occurred while checkingJava /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+
+  An unhandled exception was thrown in the compiler.
+  Please file a crash report here:
+  https://github.com/scala/scala3/issues/new/choose
+  For non-enriched exceptions, compile with -Xno-enrich-error-messages.
+
+
+     while compiling: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+        during phase: typer
+                mode: Mode(ImplicitsEnabled,ReadPositions)
+     library version: version 2.13.16
+    compiler version: version 3.7.3
+            settings: -Xsemanticdb true -bootclasspath /opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala3-library_3/3.7.3/scala3-library_3-3.7.3.jar:/opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar -classpath /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-NUGqMHfAQwiixc1PV3pMcQ==:/Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-DGGpkLJ5R8eH4Z-AWXsYvg==:/Users/racit/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.jar -d /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-NUGqMHfAQwiixc1PV3pMcQ== -sourceroot /Users/racit/Documents/ScalaDemo
+2025.12.02 18:57:41 INFO  exception occurred while checkingJava /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+
+  An unhandled exception was thrown in the compiler.
+  Please file a crash report here:
+  https://github.com/scala/scala3/issues/new/choose
+  For non-enriched exceptions, compile with -Xno-enrich-error-messages.
+
+
+     while compiling: /Users/racit/Documents/ScalaDemo/Week3/HotelApplication/hotel-management/target/scala-2.13/routes/main/controllers/routes.java
+        during phase: typer
+                mode: Mode(ImplicitsEnabled,ReadPositions)
+     library version: version 2.13.16
+    compiler version: version 3.7.3
+            settings: -Xsemanticdb true -bootclasspath /opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala3-library_3/3.7.3/scala3-library_3-3.7.3.jar:/opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar -classpath /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-NUGqMHfAQwiixc1PV3pMcQ==:/Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-DGGpkLJ5R8eH4Z-AWXsYvg==:/Users/racit/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.jar -d /Users/racit/Documents/ScalaDemo/.scala-build/.bloop/ScalaDemo_c304e17189/bloop-internal-classes/main-NUGqMHfAQwiixc1PV3pMcQ== -sourceroot /Users/racit/Documents/ScalaDemo
+2025.12.02 18:57:41 INFO  time: compiled ScalaDemo_c304e17189 in 1.34s
+2025.12.02 18:57:41 INFO  dotty.tools.dotc.ast.Trees$UnAssignedTypeException: type of TypeTree is not assigned
+	at dotty.tools... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_dotty.tools.dotc.ast..._23-55-39-796.md")
+2025.12.02 18:57:41 INFO  dotty.tools.dotc.ast.Trees$UnAssignedTypeException: type of TypeTree is not assigned
+	at dotty.tools... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_dotty.tools.dotc.ast..._23-55-39-796.md")
+2025.12.02 18:57:41 INFO  Unexpected error when compiling ScalaDemo_c304e17189: dotty.tools.dotc.ast.Trees$UnAssignedTypeExcep... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_Unexpected error whe..._23-55-39-812.md")
+2025.12.02 18:57:41 INFO  Unexpected error when compiling ScalaDemo_c304e17189: dotty.tools.dotc.ast.Trees$UnAssignedTypeExcep... (full report at: "/Users/racit/Documents/ScalaDemo/.metals/.reports/bloop/2025-11-22/r_Unexpected error whe..._23-55-39-812.md")
