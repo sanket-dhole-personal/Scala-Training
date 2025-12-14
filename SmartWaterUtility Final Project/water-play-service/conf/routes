@@ -1,0 +1,6 @@
+GET   /assets/*file     controllers.Assets.versioned(path="/public", file: Asset)
+
+GET   /customer/:id                        controllers.CustomerController.getCustomer(id: Long)
+GET   /household/:id/recentReadings        controllers.HouseholdController.recentReadings(id: Long)
+GET   /household/:id/dailyUsage            controllers.HouseholdController.dailyUsage(id: Long)
+GET   /household/:id/billing               controllers.HouseholdController.billing(id: Long)
